@@ -1,0 +1,3694 @@
+# Title: Smart-TV Blocklist for AdGuard Home (https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt) 145 Block 
+||smartclip.com^
+||smartclip.net^
+||myhomescreen.tv^
+||api-mf1.meta.ndmdhs.com^
+||b02.black.ndmdhs.com^
+||bravia.dl.playstation.net^
+||call.me.sel.sony.com^
+||flingo.tv^
+||sonybivstatic-a.akamaihd.net^
+||facemap.foldlife.net^
+||bdcore-apr-lb.bda.ndmdhs.com^
+||tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com^
+||api.cid.samba.tv^
+||preferences.cid.samba.tv^
+||ad.lgappstv.com^
+||ibis.lgappstv.com^
+||lgad.cjpowercast.com.edgesuite.net^
+||lgsmartad.com^
+||ibs.lgappstv.com^
+||yumenetworks.com^
+|lgtvsdp.com^
+||smartshare.lgtvsdp.com^
+||rdx2.lgtvsdp.com^
+/^[a-z]{11,15}$/
+/^[a-z]{7,10}$/$ctag=device_tv
+||aic-ngfts.lge.com^
+||legacyportal.nettvservices.com^
+||nettv.corio.com^
+||ad.nettvservices.com^
+||abtauthprd.samsungcloudsolution.com^
+||samsungads.com^
+||amauthprd.samsungcloudsolution.com^
+||api-hub.samsungyosemite.com^
+||az43064.vo.msecnd.net^
+||cdn.samsungcloudsolution.net^
+||Coordinator-Production-28516768.us-east-1.elb.amazonaws.com^
+||d179kwmlpc4o47.cloudfront.net^
+||d1jwpcr0q4pcq0.cloudfront.net^
+||d2tnx644ijgq6i.cloudfront.net^
+||d3mjsomixevyw7.cloudfront.net^
+||d37ju0xanoz6gh.cloudfront.net^
+||device-metrics-us.amazon.com^
+||fkp.samsungcloudsolution.
+||game.internetat.tv^
+||gld.samsungosp.com^
+||i-stream.pl^
+||log.internetat.tv^
+||musicid.samsungcloudsolution.com^
+||notice.samsungcloudsolution.com^
+||noticecdn.samsungcloudsolution.com^
+||noticefile.samsungcloudsolution.com^
+||oempprd.samsungcloudsolution.
+||prderrordumphsm.samsungcloudsolution.com^
+||openapi.samsung.com^
+||pavv.co.kr^
+||pipeaota.com^
+||premium-videos.telly.com^
+||prov.samsungcloudsolution.com^
+||rwww.samsungotn.net^
+||samsungacr.com^
+||samsungadhub.com^
+||samsungcloudsolution.com^
+||samsungcloudsolution.net^
+||samsungqbe.com^
+||sas.samsungcloudsolution.com^
+||sca.samsung.com^
+||syncplusconfig.s3.amazonaws.com^
+||us-api.samsungyosemite.com^
+||vd.emp.prd.s3.amazonaws.com^
+||vdterms.samsungcloudsolution.com^
+||samsungelectronics.com^
+||vd.contents.prod.eu.s3.amazonaws.com^
+||data.arqiva.tv^
+||cloud.arqiva.tv^
+||gamespromotion.samsungcloudsolution.com^
+||connecttv.pelmorex.com^
+||adgrx.com^
+||logs.roku.com^
+||display.ravm.tv^
+||ravm.tv^
+||hbbtv-1.eurosport.com^
+||hbbtv-extern-fe01.sim-technik.de^
+||hbbtv-track.redbutton.de^
+||hbbtv.*.de^
+||hbbtv01p.anixe.net^
+||hbbtvapp.sonnenklar.tv^
+||p-hbbtv.superrtl.de^
+||2mdn.net^
+||ad.71i.de^
+||adv.ettoday.net^
+||advertising.com^
+||cert-test.sandbox.google.com^
+||database01p.anixe.net^
+||de.ioam.de^$ctag=device_tv
+||drscdn.500px.org^$ctag=device_tv
+||googleads.g.doubleclick.net^
+||nbc-jite.nbcuni.com^
+||redbutton-adproxy-lb-prod.redbutton.de^
+||redbutton-lb-prod.redbutton.de^
+||redbutton.sim-technik.de^
+||script.ioam.de^
+||start.digitaltext.rtl.de^
+||trvdp.com^
+||tv-static.scdn.co^
+||xml.opera.com^$ctag=device_tv
+||ichnaea.netflix.com^
+||customerevents.netflix.com^
+||api.distribution.hulu.com^
+||api-gps-em.hismarttv.com^
+||auth-em.hismarttv.com^
+||msg-em.hismarttv.com^
+||api-launcher-em.hismarttv.com^
+||auth-launcher-em.hismarttv.com^
+||api-gps-na.hismarttv.com^
+||auth-na.hismarttv.com^
+||msg-na.hismarttv.com^
+||api-launcher-na.hismarttv.com^
+||auth-launcher-na.hismarttv.com^
+||unified-ter-na.hismarttv.com^
+||api.*.hismarttv.com^
+||managed.xmpp.foxtel.com.au^
+||foxtel-prod-events.digitalsmiths.net^
+||e2.resources.foxtel.com.au^
+||a1.resources.foxtel.com.au^
+||events.cid.samba.tv^
+||platform.cid.samba.tv^
+||7345023508.fxmconnect.com^
+||7345023508.fxm9485766783.com^
+||devicemessaging.us-east-1.amazon.com^
+||fls-*.amazon.com^
+||mads-eu.amazon.com^
+||mas-ext.amazon.com^
+||aax-eu.amazon-adsystem.com^
+||msh.amazon.co.uk^
+||mobileanalytics.us-east-1.amazonaws.com^
+||config.ioam.de^$ctag=device_tv|device_other
+||secure-eu.imrworldwide.com^
+||logs1409.xiti.com^
+||tracksrv.zdf.de^
+||settings.crashlytics.com^
+||mitv.tracking.intl.miui.com^
+||tracking.intl.miui.com^
+||androidtvchannels-pa.googleapis.com^
+||androidtvwatsonfe-pa.googleapis.com^
+||sdkconfig.ad.intl.xiaomi.com^
+
+#NoCoin Filter List (https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt) 685 block
+0.0.0.0 cnhv.co
+0.0.0.0 authedmine.com
+0.0.0.0 api.jsecoin.com
+0.0.0.0 load.jsecoin.com
+0.0.0.0 server.jsecoin.com
+0.0.0.0 miner.pr0gramm.com
+0.0.0.0 minemytraffic.com
+0.0.0.0 crypto-loot.com
+0.0.0.0 cryptaloot.pro
+0.0.0.0 cryptoloot.pro
+0.0.0.0 coinerra.com
+0.0.0.0 coin-have.com
+0.0.0.0 minero.pw
+0.0.0.0 minero-proxy-01.now.sh
+0.0.0.0 minero-proxy-02.now.sh
+0.0.0.0 minero-proxy-03.now.sh
+0.0.0.0 api.inwemo.com
+0.0.0.0 rocks.io
+0.0.0.0 adminer.com
+0.0.0.0 ad-miner.com
+0.0.0.0 jsccnn.com
+0.0.0.0 jscdndel.com
+0.0.0.0 coinhiveproxy.com
+0.0.0.0 coinblind.com
+0.0.0.0 coinnebula.com
+0.0.0.0 monerominer.rocks
+0.0.0.0 cdn.cloudcoins.co
+0.0.0.0 coinlab.biz
+0.0.0.0 go.megabanners.cf
+0.0.0.0 baiduccdn1.com
+0.0.0.0 wsp.marketgid.com
+0.0.0.0 papoto.com
+0.0.0.0 flare-analytics.com
+0.0.0.0 www.sparechange.io
+0.0.0.0 static.sparechange.io
+0.0.0.0 miner.nablabee.com
+0.0.0.0 m.anyfiles.ovh
+0.0.0.0 www.coinimp.com
+0.0.0.0 www.coinimp.net
+0.0.0.0 www.freecontent.bid
+0.0.0.0 www.freecontent.date
+0.0.0.0 www.freecontent.faith
+0.0.0.0 www.freecontent.loan
+0.0.0.0 www.freecontent.racing
+0.0.0.0 www.freecontent.win
+0.0.0.0 www.blockchained.party
+0.0.0.0 www.hostingcloud.download
+0.0.0.0 www.cryptonoter.com
+0.0.0.0 www.mutuza.win
+0.0.0.0 crypto-webminer.com
+0.0.0.0 cdn.adless.io
+0.0.0.0 hegrinhar.com
+0.0.0.0 verresof.com
+0.0.0.0 hemnes.win
+0.0.0.0 tidafors.xyz
+0.0.0.0 moneone.ga
+0.0.0.0 plexcoin.info
+0.0.0.0 www.monkeyminer.net
+0.0.0.0 go2.mercy.ga
+0.0.0.0 coinpirate.cf
+0.0.0.0 d.cpufan.club
+0.0.0.0 krb.devphp.org.ua
+0.0.0.0 nfwebminer.com
+0.0.0.0 cfcdist.gdn
+0.0.0.0 node.cfcdist.gdn
+0.0.0.0 webxmr.com
+0.0.0.0 xmr.mining.best
+0.0.0.0 webminepool.com
+0.0.0.0 webminepool.tk
+0.0.0.0 hive.tubetitties.com
+0.0.0.0 playerassets.info
+0.0.0.0 tokyodrift.ga
+0.0.0.0 webassembly.stream
+0.0.0.0 www.webassembly.stream
+0.0.0.0 okeyletsgo.ml
+0.0.0.0 candid.zone
+0.0.0.0 webmine.pro
+0.0.0.0 andlache.com
+0.0.0.0 bablace.com
+0.0.0.0 bewaslac.com
+0.0.0.0 biberukalap.com
+0.0.0.0 bowithow.com
+0.0.0.0 butcalve.com
+0.0.0.0 evengparme.com
+0.0.0.0 gridiogrid.com
+0.0.0.0 hatcalter.com
+0.0.0.0 kedtise.com
+0.0.0.0 ledinund.com
+0.0.0.0 nathetsof.com
+0.0.0.0 renhertfo.com
+0.0.0.0 rintindown.com
+0.0.0.0 sparnove.com
+0.0.0.0 witthethim.com
+0.0.0.0 1q2w3.fun
+0.0.0.0 1q2w3.me
+0.0.0.0 bjorksta.men
+0.0.0.0 crypto.csgocpu.com
+0.0.0.0 noblock.pro
+0.0.0.0 miner.cryptobara.com
+0.0.0.0 digger.cryptobara.com
+0.0.0.0 dev.cryptobara.com
+0.0.0.0 reservedoffers.club
+0.0.0.0 mine.torrent.pw
+0.0.0.0 host.d-ns.ga
+0.0.0.0 abc.pema.cl
+0.0.0.0 js.nahnoji.cz
+0.0.0.0 mine.nahnoji.cz
+0.0.0.0 webmine.cz
+0.0.0.0 www.webmine.cz
+0.0.0.0 intactoffers.club
+0.0.0.0 analytics.blue
+0.0.0.0 smectapop12.pl
+0.0.0.0 berserkpl.net.pl
+0.0.0.0 hodlers.party
+0.0.0.0 hodling.faith
+0.0.0.0 chainblock.science
+0.0.0.0 minescripts.info
+0.0.0.0 cdn.minescripts.info
+0.0.0.0 miner.nablabee.com
+0.0.0.0 wss.nablabee.com
+0.0.0.0 clickwith.bid
+0.0.0.0 dronml.ml
+0.0.0.0 niematego.tk
+0.0.0.0 tulip18.com
+0.0.0.0 p.estream.to
+0.0.0.0 didnkinrab.com
+0.0.0.0 ledhenone.com
+0.0.0.0 losital.ru
+0.0.0.0 mebablo.com
+0.0.0.0 moonsade.com
+0.0.0.0 nebabrop.com
+0.0.0.0 pearno.com
+0.0.0.0 rintinwa.com
+0.0.0.0 willacrit.com
+0.0.0.0 www2.adfreetv.ch
+0.0.0.0 minr.pw
+0.0.0.0 new.minr.pw
+0.0.0.0 test.minr.pw
+0.0.0.0 staticsfs.host
+0.0.0.0 cdn-code.host
+0.0.0.0 g-content.bid
+0.0.0.0 ad.g-content.bid
+0.0.0.0 cdn.static-cnt.bid
+0.0.0.0 cnt.statistic.date
+0.0.0.0 jquery-uim.download
+0.0.0.0 cdn.jquery-uim.download
+0.0.0.0 cdn-jquery.host
+0.0.0.0 p1.interestingz.pw
+0.0.0.0 kippbeak.cf
+0.0.0.0 pasoherb.gq
+0.0.0.0 axoncoho.tk
+0.0.0.0 depttake.ga
+0.0.0.0 flophous.cf
+0.0.0.0 pr0gram.org
+0.0.0.0 authedmine.eu
+0.0.0.0 www.monero-miner.com
+0.0.0.0 www.datasecu.download
+0.0.0.0 www.jquery-cdn.download
+0.0.0.0 www.etzbnfuigipwvs.ru
+0.0.0.0 www.terethat.ru
+0.0.0.0 freshrefresher.com
+0.0.0.0 api.pzoifaum.info
+0.0.0.0 ws.pzoifaum.info
+0.0.0.0 api.bhzejltg.info
+0.0.0.0 ws.bhzejltg.info
+0.0.0.0 d.cfcnet.top
+0.0.0.0 vip.cfcnet.top
+0.0.0.0 eu.cfcnet.top
+0.0.0.0 as.cfcnet.top
+0.0.0.0 us.cfcnet.top
+0.0.0.0 eu.cfcdist.loan
+0.0.0.0 as.cfcdist.loan
+0.0.0.0 us.cfcdist.loan
+0.0.0.0 gustaver.ddns.net
+0.0.0.0 worker.salon.com
+0.0.0.0 s2.appelamule.com
+0.0.0.0 mepirtedic.com
+0.0.0.0 cdn.streambeam.io
+0.0.0.0 adzjzewsma.cf
+0.0.0.0 ffinwwfpqi.gq
+0.0.0.0 ininmacerad.pro
+0.0.0.0 mhiobjnirs.gq
+0.0.0.0 open-hive-server-1.pp.ua
+0.0.0.0 pool.hws.ru
+0.0.0.0 pool.etn.spacepools.org
+0.0.0.0 api.aalbbh84.info
+0.0.0.0 www.aymcsx.ru
+0.0.0.0 aeros01.tk
+0.0.0.0 aeros02.tk
+0.0.0.0 aeros03.tk
+0.0.0.0 aeros04.tk
+0.0.0.0 aeros05.tk
+0.0.0.0 aeros06.tk
+0.0.0.0 aeros07.tk
+0.0.0.0 aeros08.tk
+0.0.0.0 aeros09.tk
+0.0.0.0 aeros10.tk
+0.0.0.0 aeros11.tk
+0.0.0.0 aeros12.tk
+0.0.0.0 npcdn1.now.sh
+0.0.0.0 mxcdn2.now.sh
+0.0.0.0 sxcdn6.now.sh
+0.0.0.0 mxcdn1.now.sh
+0.0.0.0 sxcdn02.now.sh
+0.0.0.0 sxcdn4.now.sh
+0.0.0.0 jqcdn2.herokuapp.com
+0.0.0.0 sxcdn1.herokuapp.com
+0.0.0.0 sxcdn5.herokuapp.com
+0.0.0.0 wpcdn1.herokuapp.com
+0.0.0.0 jqcdn01.herokuapp.com
+0.0.0.0 jqcdn03.herokuapp.com
+0.0.0.0 1q2w3.website
+0.0.0.0 video.videos.vidto.me
+0.0.0.0 play.play1.videos.vidto.me
+0.0.0.0 playe.vidto.se
+0.0.0.0 video.streaming.estream.to
+0.0.0.0 eth-pocket.de
+0.0.0.0 xvideosharing.site
+0.0.0.0 bestcoinsignals.com
+0.0.0.0 eucsoft.com
+0.0.0.0 traviilo.com
+0.0.0.0 wasm24.ru
+0.0.0.0 xmr.cool
+0.0.0.0 api.netflare.info
+0.0.0.0 cdnjs.cloudflane.com
+0.0.0.0 www.cloudflane.com
+0.0.0.0 clgserv.pro
+0.0.0.0 hide.ovh
+0.0.0.0 graftpool.ovh
+0.0.0.0 encoding.ovh
+0.0.0.0 altavista.ovh
+0.0.0.0 scaleway.ovh
+0.0.0.0 nexttime.ovh
+0.0.0.0 never.ovh
+0.0.0.0 2giga.download
+0.0.0.0 webminerpool.com
+0.0.0.0 minercry.pt
+0.0.0.0 adplusplus.fr
+0.0.0.0 ethtrader.de
+0.0.0.0 gobba.myeffect.net
+0.0.0.0 bauersagtnein.myeffect.net
+0.0.0.0 besti.ga
+0.0.0.0 jurty.ml
+0.0.0.0 jurtym.cf
+0.0.0.0 mfio.cf
+0.0.0.0 mwor.gq
+0.0.0.0 oei1.gq
+0.0.0.0 wordc.ga
+0.0.0.0 berateveng.ru
+0.0.0.0 ctlrnwbv.ru
+0.0.0.0 ermaseuc.ru
+0.0.0.0 kdmkauchahynhrs.ru
+0.0.0.0 uoldid.ru
+0.0.0.0 www.jqrcdn.download
+0.0.0.0 www.jqassets.download
+0.0.0.0 www.jqcdn.download
+0.0.0.0 www.jquerrycdn.download
+0.0.0.0 www.jqwww.download
+0.0.0.0 lightminer.co
+0.0.0.0 www.lightminer.co
+0.0.0.0 browsermine.com
+0.0.0.0 api.browsermine.com
+0.0.0.0 dl.browsermine.com
+0.0.0.0 mlib.browsermine.com
+0.0.0.0 minr.browsermine.com
+0.0.0.0 static.browsermine.com
+0.0.0.0 ws.browsermine.com
+0.0.0.0 bmst.pw
+0.0.0.0 bmnr.pw
+0.0.0.0 bmcm.pw
+0.0.0.0 bmcm.ml
+0.0.0.0 videoplayer2.xyz
+0.0.0.0 play.video2.stream.vidzi.tv
+0.0.0.0 authedwebmine.cz
+0.0.0.0 www.authedwebmine.cz
+0.0.0.0 skencituer.com
+0.0.0.0 site.flashx.cc
+0.0.0.0 play1.flashx.pw
+0.0.0.0 play2.flashx.pw
+0.0.0.0 play4.flashx.pw
+0.0.0.0 play5.flashx.pw
+0.0.0.0 js.vidoza.net
+0.0.0.0 mm.zubovskaya-banya.ru
+0.0.0.0 mysite.irkdsu.ru
+0.0.0.0 play.estream.nu
+0.0.0.0 play.estream.to
+0.0.0.0 play.estream.xyz
+0.0.0.0 play.play.estream.nu
+0.0.0.0 play.play.estream.to
+0.0.0.0 play.play.estream.xyz
+0.0.0.0 play.tainiesonline.pw
+0.0.0.0 play.vidzi.tv
+0.0.0.0 play.pampopholf.com
+0.0.0.0 s3.pampopholf.com
+0.0.0.0 play.malictuiar.com
+0.0.0.0 s3.malictuiar.com
+0.0.0.0 play.play.tainiesonline.stream
+0.0.0.0 ocean2.authcaptcha.com
+0.0.0.0 rock2.authcaptcha.com
+0.0.0.0 stone2.authcaptcha.com
+0.0.0.0 sass2.authcaptcha.com
+0.0.0.0 sea2.authcaptcha.com
+0.0.0.0 play.flowplayer.space
+0.0.0.0 play.pc.belicimo.pw
+0.0.0.0 play.power.tainiesonline.pw
+0.0.0.0 play.s01.vidtodo.pro
+0.0.0.0 wm.yololike.space
+0.0.0.0 play.mix.kinostuff.com
+0.0.0.0 play.on.animeteatr.ru
+0.0.0.0 play.mine.gay-hotvideo.net
+0.0.0.0 play.www.intellecthosting.net
+0.0.0.0 mytestminer.xyz
+0.0.0.0 play.vb.wearesaudis.net
+0.0.0.0 flowplayer.space
+0.0.0.0 s2.flowplayer.space
+0.0.0.0 s3.flowplayer.space
+0.0.0.0 thersprens.com
+0.0.0.0 s2.thersprens.com
+0.0.0.0 s3.thersprens.com
+0.0.0.0 gramombird.com
+0.0.0.0 play.gramombird.com
+0.0.0.0 ugmfvqsu.ru
+0.0.0.0 bsyauqwerd.party
+0.0.0.0 ccvwtdtwyu.trade
+0.0.0.0 baywttgdhe.download
+0.0.0.0 pdheuryopd.loan
+0.0.0.0 iaheyftbsn.review
+0.0.0.0 djfhwosjck.bid
+0.0.0.0 najsiejfnc.win
+0.0.0.0 zndaowjdnf.stream
+0.0.0.0 yqaywudifu.date
+0.0.0.0 malictuiar.com
+0.0.0.0 proofly.win
+0.0.0.0 zminer.zaloapp.com
+0.0.0.0 vkcdnservice.com
+0.0.0.0 dexim.space
+0.0.0.0 acbp0020171456.page.tl
+0.0.0.0 vuryua.ru
+0.0.0.0 minexmr.stream
+0.0.0.0 gitgrub.pro
+0.0.0.0 d8acddffe978b5dfcae6.date
+0.0.0.0 eth-pocket.com
+0.0.0.0 autologica.ga
+0.0.0.0 whysoserius.club
+0.0.0.0 aster18cdn.nl
+0.0.0.0 nerohut.com
+0.0.0.0 gnrdomimplementation.com
+0.0.0.0 pon.ewtuyytdf45.com
+0.0.0.0 hhb123.tk
+0.0.0.0 dzizsih.ru
+0.0.0.0 nddmcconmqsy.ru
+0.0.0.0 silimbompom.com
+0.0.0.0 unrummaged.com
+0.0.0.0 fruitice.realnetwrk.com
+0.0.0.0 synconnector.com
+0.0.0.0 toftofcal.com
+0.0.0.0 gasolina.ml
+0.0.0.0 8jd2lfsq.me
+0.0.0.0 afflow.18-plus.net
+0.0.0.0 afminer.com
+0.0.0.0 aservices.party
+0.0.0.0 becanium.com
+0.0.0.0 brominer.com
+0.0.0.0 cdn-analytics.pl
+0.0.0.0 cdn.static-cnt.bid
+0.0.0.0 cloudcdn.gdn
+0.0.0.0 coin-service.com
+0.0.0.0 coinpot.co
+0.0.0.0 coinrail.io
+0.0.0.0 etacontent.com
+0.0.0.0 exdynsrv.com
+0.0.0.0 formulawire.com
+0.0.0.0 go.bestmobiworld.com
+0.0.0.0 goldoffer.online
+0.0.0.0 hallaert.online
+0.0.0.0 hashing.win
+0.0.0.0 igrid.org
+0.0.0.0 laserveradedomaina.com
+0.0.0.0 machieved.com
+0.0.0.0 nametraff.com
+0.0.0.0 offerreality.com
+0.0.0.0 ogrid.org
+0.0.0.0 panelsave.com
+0.0.0.0 party-vqgdyvoycc.now.sh
+0.0.0.0 pertholin.com
+0.0.0.0 premiumstats.xyz
+0.0.0.0 serie-vostfr.com
+0.0.0.0 salamaleyum.com
+0.0.0.0 smartoffer.site
+0.0.0.0 stonecalcom.com
+0.0.0.0 thewhizmarketing.com
+0.0.0.0 thewhizproducts.com
+0.0.0.0 thewise.com
+0.0.0.0 traffic.tc-clicks.com
+0.0.0.0 vcfs6ip5h6.bid
+0.0.0.0 web.dle-news.pw
+0.0.0.0 webmining.co
+0.0.0.0 wp-monero-miner.de
+0.0.0.0 wtm.monitoringservice.co
+0.0.0.0 xy.nullrefexcep.com
+0.0.0.0 yrdrtzmsmt.com
+0.0.0.0 wss.rand.com.ru
+0.0.0.0 www.verifier.live
+0.0.0.0 www.jshosting.bid
+0.0.0.0 www.jshosting.date
+0.0.0.0 www.jshosting.download
+0.0.0.0 www.jshosting.faith
+0.0.0.0 www.jshosting.loan
+0.0.0.0 www.jshosting.party
+0.0.0.0 www.jshosting.racing
+0.0.0.0 www.jshosting.review
+0.0.0.0 www.jshosting.science
+0.0.0.0 www.jshosting.stream
+0.0.0.0 www.jshosting.trade
+0.0.0.0 www.jshosting.win
+0.0.0.0 www.freecontent.download
+0.0.0.0 www.freecontent.party
+0.0.0.0 www.freecontent.review
+0.0.0.0 www.freecontent.science
+0.0.0.0 www.freecontent.stream
+0.0.0.0 www.freecontent.trade
+0.0.0.0 www.hostcontent.live
+0.0.0.0 www.hostingcloud.accountant
+0.0.0.0 www.hostingcloud.bid
+0.0.0.0 www.hostingcloud.date
+0.0.0.0 www.hostingcloud.download
+0.0.0.0 www.hostingcloud.faith
+0.0.0.0 www.hostingcloud.live
+0.0.0.0 www.hostingcloud.loan
+0.0.0.0 www.hostingcloud.party
+0.0.0.0 www.hostingcloud.racing
+0.0.0.0 www.hostingcloud.review
+0.0.0.0 www.hostingcloud.science
+0.0.0.0 www.hostingcloud.stream
+0.0.0.0 www.hostingcloud.trade
+0.0.0.0 www.hostingcloud.win
+0.0.0.0 minerad.com
+0.0.0.0 coin-cube.com
+0.0.0.0 coin-services.info
+0.0.0.0 service4refresh.info
+0.0.0.0 money-maker-script.info
+0.0.0.0 money-maker-default.info
+0.0.0.0 money-maker-default.info
+0.0.0.0 de-ner-mi-nis4.info
+0.0.0.0 de-nis-ner-mi-5.info
+0.0.0.0 de-mi-nis-ner2.info
+0.0.0.0 de-mi-nis-ner.info
+0.0.0.0 mi-de-ner-nis3.info
+0.0.0.0 s2.soodatmish.com
+0.0.0.0 s2.thersprens.com
+0.0.0.0 play.feesocrald.com
+0.0.0.0 cdn1.pebx.pl
+0.0.0.0 play.nexioniect.com
+0.0.0.0 play.besstahete.info
+0.0.0.0 s2.myregeneaf.com
+0.0.0.0 s3.myregeneaf.com
+0.0.0.0 reauthenticator.com
+0.0.0.0 rock.reauthenticator.com
+0.0.0.0 serv1swork.com
+0.0.0.0 str1kee.com
+0.0.0.0 f1tbit.com
+0.0.0.0 g1thub.com
+0.0.0.0 swiftmining.win
+0.0.0.0 cashbeet.com
+0.0.0.0 wmtech.website
+0.0.0.0 www.notmining.org
+0.0.0.0 coinminingonline.com
+0.0.0.0 alflying.bid
+0.0.0.0 alflying.date
+0.0.0.0 alflying.win
+0.0.0.0 anybest.host
+0.0.0.0 anybest.pw
+0.0.0.0 anybest.site
+0.0.0.0 anybest.space
+0.0.0.0 dubester.pw
+0.0.0.0 dubester.site
+0.0.0.0 dubester.space
+0.0.0.0 flightsy.bid
+0.0.0.0 flightsy.date
+0.0.0.0 flightsy.win
+0.0.0.0 flighty.win
+0.0.0.0 flightzy.bid
+0.0.0.0 flightzy.date
+0.0.0.0 flightzy.win
+0.0.0.0 gettate.date
+0.0.0.0 gettate.faith
+0.0.0.0 gettate.racing
+0.0.0.0 mighbest.host
+0.0.0.0 mighbest.pw
+0.0.0.0 mighbest.site
+0.0.0.0 zymerget.bid
+0.0.0.0 zymerget.date
+0.0.0.0 zymerget.faith
+0.0.0.0 zymerget.party
+0.0.0.0 zymerget.stream
+0.0.0.0 zymerget.win
+0.0.0.0 statdynamic.com
+0.0.0.0 alpha.nimiqpool.com
+0.0.0.0 api.miner.beeppool.org
+0.0.0.0 beatingbytes.com
+0.0.0.0 besocial.online
+0.0.0.0 beta.nimiqpool.com
+0.0.0.0 bulls.nimiqpool.com
+0.0.0.0 de1.eu.nimiqpool.com
+0.0.0.0 ethmedialab.info
+0.0.0.0 feilding.nimiqpool.com
+0.0.0.0 foxton.nimiqpool.com
+0.0.0.0 ganymed.beeppool.org
+0.0.0.0 himatangi.nimiqpool.com
+0.0.0.0 levin.nimiqpool.com
+0.0.0.0 mine.terorie.com
+0.0.0.0 miner-1.team.nimiq.agency
+0.0.0.0 miner-10.team.nimiq.agency
+0.0.0.0 miner-11.team.nimiq.agency
+0.0.0.0 miner-12.team.nimiq.agency
+0.0.0.0 miner-13.team.nimiq.agency
+0.0.0.0 miner-14.team.nimiq.agency
+0.0.0.0 miner-15.team.nimiq.agency
+0.0.0.0 miner-16.team.nimiq.agency
+0.0.0.0 miner-17.team.nimiq.agency
+0.0.0.0 miner-18.team.nimiq.agency
+0.0.0.0 miner-19.team.nimiq.agency
+0.0.0.0 miner-2.team.nimiq.agency
+0.0.0.0 miner-3.team.nimiq.agency
+0.0.0.0 miner-4.team.nimiq.agency
+0.0.0.0 miner-5.team.nimiq.agency
+0.0.0.0 miner-6.team.nimiq.agency
+0.0.0.0 miner-7.team.nimiq.agency
+0.0.0.0 miner-8.team.nimiq.agency
+0.0.0.0 miner-9.team.nimiq.agency
+0.0.0.0 miner-deu-1.inf.nimiq.network
+0.0.0.0 miner-deu-2.inf.nimiq.network
+0.0.0.0 miner-deu-3.inf.nimiq.network
+0.0.0.0 miner-deu-4.inf.nimiq.network
+0.0.0.0 miner-deu-5.inf.nimiq.network
+0.0.0.0 miner-deu-6.inf.nimiq.network
+0.0.0.0 miner-deu-7.inf.nimiq.network
+0.0.0.0 miner-deu-8.inf.nimiq.network
+0.0.0.0 miner.beeppool.org
+0.0.0.0 miner.nimiq.com
+0.0.0.0 mon-deu-1.inf.nimiq.network
+0.0.0.0 mon-deu-2.inf.nimiq.network
+0.0.0.0 mon-deu-3.inf.nimiq.network
+0.0.0.0 mon-fra-1.inf.nimiq.network
+0.0.0.0 mon-fra-2.inf.nimiq.network
+0.0.0.0 mon-gbr-1.inf.nimiq.network
+0.0.0.0 nimiq.terorie.com
+0.0.0.0 nimiqpool.com
+0.0.0.0 nimiqtest.ml
+0.0.0.0 ninaning.com
+0.0.0.0 node.alpha.nimiqpool.com
+0.0.0.0 node.nimiqpool.com
+0.0.0.0 nodeb.nimiqpool.com
+0.0.0.0 nodeone.nimiqpool.com
+0.0.0.0 proxy-can-1.inf.nimiq.network
+0.0.0.0 proxy-deu-1.inf.nimiq.network
+0.0.0.0 proxy-deu-2.inf.nimiq.network
+0.0.0.0 proxy-fra-1.inf.nimiq.network
+0.0.0.0 proxy-fra-2.inf.nimiq.network
+0.0.0.0 proxy-fra-3.inf.nimiq.network
+0.0.0.0 proxy-gbr-1.inf.nimiq.network
+0.0.0.0 proxy-gbr-2.inf.nimiq.network
+0.0.0.0 proxy-pol-1.inf.nimiq.network
+0.0.0.0 proxy-pol-2.inf.nimiq.network
+0.0.0.0 script.nimiqpool.com
+0.0.0.0 seed-1.nimiq-network.com
+0.0.0.0 seed-1.nimiq.com
+0.0.0.0 seed-1.nimiq.network
+0.0.0.0 seed-10.nimiq-network.com
+0.0.0.0 seed-10.nimiq.com
+0.0.0.0 seed-10.nimiq.network
+0.0.0.0 seed-11.nimiq-network.com
+0.0.0.0 seed-11.nimiq.com
+0.0.0.0 seed-11.nimiq.network
+0.0.0.0 seed-12.nimiq-network.com
+0.0.0.0 seed-12.nimiq.com
+0.0.0.0 seed-12.nimiq.network
+0.0.0.0 seed-13.nimiq-network.com
+0.0.0.0 seed-13.nimiq.com
+0.0.0.0 seed-13.nimiq.network
+0.0.0.0 seed-14.nimiq-network.com
+0.0.0.0 seed-14.nimiq.com
+0.0.0.0 seed-14.nimiq.network
+0.0.0.0 seed-15.nimiq-network.com
+0.0.0.0 seed-15.nimiq.com
+0.0.0.0 seed-15.nimiq.network
+0.0.0.0 seed-16.nimiq-network.com
+0.0.0.0 seed-16.nimiq.com
+0.0.0.0 seed-16.nimiq.network
+0.0.0.0 seed-17.nimiq-network.com
+0.0.0.0 seed-17.nimiq.com
+0.0.0.0 seed-17.nimiq.network
+0.0.0.0 seed-18.nimiq-network.com
+0.0.0.0 seed-18.nimiq.com
+0.0.0.0 seed-18.nimiq.network
+0.0.0.0 seed-19.nimiq-network.com
+0.0.0.0 seed-19.nimiq.com
+0.0.0.0 seed-19.nimiq.network
+0.0.0.0 seed-2.nimiq-network.com
+0.0.0.0 seed-2.nimiq.com
+0.0.0.0 seed-2.nimiq.network
+0.0.0.0 seed-20.nimiq-network.com
+0.0.0.0 seed-20.nimiq.com
+0.0.0.0 seed-20.nimiq.network
+0.0.0.0 seed-3.nimiq-network.com
+0.0.0.0 seed-3.nimiq.com
+0.0.0.0 seed-3.nimiq.network
+0.0.0.0 seed-4.nimiq-network.com
+0.0.0.0 seed-4.nimiq.com
+0.0.0.0 seed-4.nimiq.network
+0.0.0.0 seed-5.nimiq-network.com
+0.0.0.0 seed-5.nimiq.com
+0.0.0.0 seed-5.nimiq.network
+0.0.0.0 seed-6.nimiq-network.com
+0.0.0.0 seed-6.nimiq.com
+0.0.0.0 seed-6.nimiq.network
+0.0.0.0 seed-7.nimiq-network.com
+0.0.0.0 seed-7.nimiq.com
+0.0.0.0 seed-7.nimiq.network
+0.0.0.0 seed-8.nimiq-network.com
+0.0.0.0 seed-8.nimiq.com
+0.0.0.0 seed-8.nimiq.network
+0.0.0.0 seed-9.nimiq-network.com
+0.0.0.0 seed-9.nimiq.com
+0.0.0.0 seed-9.nimiq.network
+0.0.0.0 seed-can-1.inf.nimiq.network
+0.0.0.0 seed-can-2.inf.nimiq.network
+0.0.0.0 seed-deu-1.inf.nimiq.network
+0.0.0.0 seed-deu-2.inf.nimiq.network
+0.0.0.0 seed-deu-3.inf.nimiq.network
+0.0.0.0 seed-deu-4.inf.nimiq.network
+0.0.0.0 seed-fra-1.inf.nimiq.network
+0.0.0.0 seed-fra-2.inf.nimiq.network
+0.0.0.0 seed-fra-3.inf.nimiq.network
+0.0.0.0 seed-fra-4.inf.nimiq.network
+0.0.0.0 seed-fra-5.inf.nimiq.network
+0.0.0.0 seed-fra-6.inf.nimiq.network
+0.0.0.0 seed-gbr-1.inf.nimiq.network
+0.0.0.0 seed-gbr-2.inf.nimiq.network
+0.0.0.0 seed-gbr-3.inf.nimiq.network
+0.0.0.0 seed-gbr-4.inf.nimiq.network
+0.0.0.0 seed-pol-1.inf.nimiq.network
+0.0.0.0 seed-pol-2.inf.nimiq.network
+0.0.0.0 seed-pol-3.inf.nimiq.network
+0.0.0.0 seed-pol-4.inf.nimiq.network
+0.0.0.0 seed.nimiqpool.com
+0.0.0.0 seed1.sushipool.com
+0.0.0.0 shannon.nimiqpool.com
+0.0.0.0 sunnimiq.cf
+0.0.0.0 sunnimiq1.cf
+0.0.0.0 sunnimiq2.cf
+0.0.0.0 sunnimiq3.cf
+0.0.0.0 sunnimiq4.cf
+0.0.0.0 sunnimiq5.cf
+0.0.0.0 sunnimiq6.cf
+0.0.0.0 tokomaru.nimiqpool.com
+0.0.0.0 whanganui.nimiqpool.com
+0.0.0.0 www.besocial.online
+0.0.0.0 miner.nimiq.com
+0.0.0.0 jscoinminer.com
+0.0.0.0 www.jscoinminer.com
+0.0.0.0 play.tercabilis.info
+0.0.0.0 play.istlandoll.com
+0.0.0.0 s01.hostcontent.live
+0.0.0.0 s02.hostcontent.live
+0.0.0.0 s03.hostcontent.live
+0.0.0.0 s04.hostcontent.live
+0.0.0.0 s05.hostcontent.live
+0.0.0.0 s06.hostcontent.live
+0.0.0.0 s07.hostcontent.live
+0.0.0.0 s08.hostcontent.live
+0.0.0.0 s09.hostcontent.live
+0.0.0.0 s10.hostcontent.live
+0.0.0.0 s100.hostcontent.live
+0.0.0.0 s11.hostcontent.live
+0.0.0.0 s12.hostcontent.live
+0.0.0.0 s13.hostcontent.live
+0.0.0.0 binarybusiness.de
+0.0.0.0 bitcoin-pay.eu
+0.0.0.0 cloud-miner.de
+0.0.0.0 cloud-miner.eu
+0.0.0.0 easyhash.de
+0.0.0.0 srcip.com
+0.0.0.0 srcips.com
+0.0.0.0 gxbrowser.net
+0.0.0.0 contribute.to-support.me
+
+# Unwanted Iranian (https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/unwanted-iranian.txt)
+
+
+# Scam Blocklist by DurableNapkin (https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt) 395 Block
+||1stireland.com^
+||1sttheworld.com^
+||acquatee.com^
+||adidasko.com^
+||ahenana.com^
+||airmaxskobillige.com^
+||akarosi.com^
+||akatee.com^
+||aliseshop.com^
+||aliyaoberbrunnergreg21.myshopify.com^
+||allstarshirt.com^
+||alltestbanksolutions.com^
+||alohazing.com^
+||altruetech.com^
+||anclice.com^
+||animeshoppers.com^
+||aoptee.com^
+||army-shop.onshopbase.com^
+||arnoldgloverruss58.myshopify.com^
+||arthoodie.com^
+||arvetellefsen.no^
+||assassinfitness.com^
+||atrendsz.com^
+||attenstyle.com^
+||aussiesportfashion.com^
+||azfancy.com^
+||azitecs.com^
+||beartees.pubninja.com^
+||beaswan.com^
+||beecrave.com^
+||benecharm.com^
+||berfumetee.com^
+||bestbabyyoda.com^
+||bestmoonshop.com^
+||bknstore.com^
+||blingyy.com^
+||bloomingvibe.com^
+||bltskins.com^
+||boobeeshop.com^
+||boododa.com^
+||booliving.com^
+||bossaving.com^
+||boutiqueondemand.com^
+||bradcroninnapo82.myshopify.com^
+||breakshirts.com^
+||buddhakind.com^
+||burgershirt.com^
+||candlesbymadison.com^
+||canjaume.com^
+||carmenfloral.com^
+||carvemyname.com^
+||charmsection.com^
+||cherryzones.com^
+||chiclife.co.uk^
+||chikepod.com^
+||chipcy.com^
+||chipteeamz.com^
+||cipustar.com^
+||cition.info^
+||cityofdream.co.uk^
+||clemoa.com^
+||cloverszone.com^
+||cluckergifts.ecwid.com^
+||cmoboy.com^
+||cocumbertee.com^
+||cookietee.com^
+||coolest3d.com^
+||coolestpod.com^
+||coralls.com^
+||corg.co^
+||couponxoo.com^
+||customizerbox.com^
+||danylevych.com^
+||daradis.com^
+||decoryourhome.store^
+||deergift.com^
+||defcon7.com.br^
+||deluxdoll.com^
+||devifoodgrains.com^
+||deytee.com^
+||dezpez.com^
+||dkfodboldstore.com^
+||dogparadiseshop.com^
+||dogparadisestore.com^
+||dolystore.com^
+||donttreadonmeshop.com^
+||drakternorge.com^
+||drcarolyngroff.com^
+||dreamstee.com^
+||dreamstees.com^
+||duckydecor.store^
+||dumanus.com^
+||easynatures.com^
+||easyshoppingus.com^
+||ellezz.com^
+||emberio.com^
+||enchantestore.myshopify.com^
+||engineracing.net^
+||envisiongear.com^
+||esl-gaming.com^
+||eudoraz.com^
+||evangeliostore.com^
+||eviralstore.com^
+||familybestgifts.com^
+||familygiftlove.myshopify.com^
+||familygiftville.com^
+||familylovesgift.com^
+||familyshark.com^
+||familystore.com^
+||famoury.com^
+||fancycentral.com^
+||fapst.com^
+||farmer-love.us^
+||fasinal.com^
+||feddiy.com^
+||findglocal.com^
+||fishingdaily.shop^
+||fishinglovely.com^
+||flattee.com^
+||fotballsko-salg.com^
+||frest.info^
+||friday89.com^
+||friday99.com^
+||frostgoddess.com^
+||fruitstee.com^
+||fulfillgift.com^
+||furoshop.com^
+||fveco.com^
+||gearanime.com^
+||gearathena.com^
+||gearclover.com^
+||gearstastic.com^
+||gearstastics.com^
+||gearver.com^
+||giftyweb.com^
+||gizmopage.com^
+||gladiadormalas.com.br^
+||glendaz.com^
+||glstee.com^
+||godeskonettbutikk.com^
+||gogiworld.com^
+||gossvibe.com^
+||gotoperfection.com^
+||goyourheart.com^
+||graciaszone.com^
+||gsport.com^
+||guccitees.com^
+||gunstee.com^
+||guus.store^
+||hairyfy.com^
+||hanamorastore.com^
+||haowei.me^
+||haruko.store^
+||hazayla.com^
+||hbofunkoshop.com^
+||helgaz.com^
+||helpnanacenter.helpscoutdocs.com^
+||hermanistore.com^
+||hernoclothing.com^
+||highty.co^
+||himete.com^
+||hookahheroes.com^
+||horizonbagel.com^
+||icelandclothing.myshopify.com^
+||ikiha.com^
+||ikoee.com^
+||ilpollenza-sorso23.it^
+||infinityto.com^
+||inusoul.com^
+||jagkart.com^
+||jakkesalgs.com^
+||jakkesnorge.com^
+||januashop.com^
+||jellystores.com^
+||jollyfamilygifts.net^
+||joseph-holland.com^
+||khoinguyenhanoi.vn^
+||kigurumi-usa.com^
+||killtee.com^
+||kindapod.com^
+||kingteestore.com^
+||kisserine.com^
+||kitchendecor.shop^
+||kuteblanket.store^
+||ladamustore.com^
+||legarralazcoz.com^
+||lemstore.com^
+||lericettedifrancy74.com^
+||letrantrunghieu.com^
+||letteringift.com^
+||levath.com^
+||linkshe.com^
+||linostee.com^
+||lisabuddy.com^
+||lisianstore.com^
+||litcomplex.com^
+||lomipod.com^
+||look-like-star.myshopify.com^
+||lootcrate.com^
+||loveinbox.co.uk^
+||lovelovegifts.com^
+||loveshop20.com^
+||lrgst.com^
+||lucatee.com^
+||lucidtiger.com^
+||lucysstyle.com^
+||lunapresent.com^
+||luxsgear.com^
+||magnasat.com^
+||makewallperfect.store^
+||mangacos.com^
+||marleytecnologica.com^
+||mbtnorge.com^
+||meaningift.com^
+||meowpinky.com^
+||miucart.com^
+||miuprints.com^
+||monkstars.com^
+||mononus.com^
+||moteshoes.com^
+||museuw.com^
+||muthaafoundation.org^
+||mycraftypad.com^
+||myfunfarm.com^
+||myhandshops.myshopify.com^
+||mystitich4u.com^
+||nabaza.shop^
+||nanistores.com^
+||natilove.com^
+||nationaladvancegroup.com^
+||natistore.us^
+||neozor.com^
+||nevaon.com^
+||newgstore.com^
+||nicetee.net^
+||niche3d.us^
+||nldstore.com^
+||noatopdesign.com^
+||nofotballshop.com^
+||nofotballstore.com^
+||nonofy.com^
+||norfotball.com^
+||norge.parkaoutdoor.com^
+||norgefotball.com^
+||norgejakke.com^
+||norgeshoes.com^
+||odinpc.com^
+||oflike.com^
+||ogogear.com^
+||oldcube.com^
+||orderquilt.com^
+||orderstee.com^
+||otakupuzzle.com^
+||owlala.com^
+||pandzee.com^
+||parajumpersnorway.com^
+||parajumperssalg.com^
+||peace-love.us^
+||pearstee.com^
+||penguinnow.com^
+||peppatees.com^
+||personal84.com^
+||pharaohstore.com^
+||pickablegift.com^
+||pjs.outlet.com^
+||plutostars.com^
+||popeurope.com^
+||poppop.online^
+||premiumqualityblanket.com^
+||printkay.com^
+||printteestore.com^
+||qooraa.com^
+||quintrendy.com^
+||rabamnetee.com^
+||rebeccatees.com^
+||reviewshirts.com^
+||ringtoperfection.com^
+||rjgriffith.com^
+||robinmooreband.com^
+||rockchief.com^
+||rosateeshop.com^
+||royaldecorhome.store^
+||saveeeee.myshopify.com^
+||sayhellorugs.com^
+||sentees.com^
+||sharonup.com^
+||shinepuzzle.com^
+||shinezily.com^
+||shirtforfan.com^
+||shirttest.com^
+||shoeaddic.com^
+||shop.spreadshirt.com^
+||shopusawarehouse.com^
+||sieuto.com^
+||sigmaoffers.com^
+||signpify.com^
+||silverlanetrading.com^
+||skincheap.com^
+||skins-store.net^
+||skinszone.net^
+||smartpower4all.org^
+||smartproduct.site^
+||sodipi.com^
+||somethingapparel.com^
+||souhoney.com^
+||source84.com^
+||southernlife.net^
+||sozonest.com^
+||spnation.net^
+||sportfanvoice.com^
+||sportfirestore.com^
+||sportsapparelmarket.com^
+||sportswearfanatics.com^
+||sportswearforfans.com^
+||spreadstores.com^
+||startjacket.com^
+||startuplatte.com^
+||steamgateways.com^
+||steamunlock.com^
+||steamunlock.gifts^
+||stingcool-com.myshopify.com^
+||store-aleteia.org^
+||store25848025.company.site^
+||storeax.com^
+||storedarkness.com^
+||storeitsafeltd.com^
+||storesonlineltd.com^
+||storesp.com^
+||streamloot.co^
+||stunningstuffs.com^
+||sunleaftravel.com^
+||sunsetstore.net^
+||sununi.us^
+||supercutestuff.com^
+||superfacehoodie.com^
+||supperbrand.company.site^
+||surprisesandgifts.com^
+||survivalcatsupply.com^
+||swellsup.com^
+||tadarick.com^
+||tartannewzealand.myshopify.com^
+||tee24h.com^
+||teearrow.com^
+||teefoody.com^
+||teenimo.com^
+||teezill.com^
+||thechildhooddream.com^
+||thecustomee.com^
+||thegeekgifts.com^
+||thehappywood.com^
+||thekeilas.com^
+||theshiny.store^
+||theshirtyouneed.com^
+||thevitic.com^
+||thevitic.onshopbase.com^
+||tikgeeker.com^
+||tiranaaquapark-eg.com^
+||tlonsey.com^
+||tomadamsenergy.com^
+||topsdiy.com^
+||trade-skins.net^
+||treasurefan.com^
+||trendsharks.com^
+||trendybuddystore.com^
+||treverschmelerkris18.myshopify.com^
+||tromselementbygg.no^
+||tulumwellnessacademy.com^
+||tycomex.com^
+||ultimate-tech-products.myshopify.com^
+||um-bs.com^
+||unifully.com^
+||uniqueetee.com^
+||ureashi.com^
+||usasport247.com^
+||vavaname.com^
+||vegamartz.com^
+||verfun.com^
+||vetoro.cc^
+||viberman.com^
+||vikingstore.co^
+||vipticketgiveaway.com^
+||wavetshirt.com^
+||weheartitstore.com^
+||wezpod.com^
+||whbinder.com^
+||wikeb.com^
+||windbellstore.com^
+||woadoodles.com^
+||wyj.primajaya-adv.com^
+||yeswevibe.com^
+||yeyvibe.com^
+||yhdshop.com^
+||yomoun.com^
+||zedbubble.com^
+||zerowasteinitiative.com^
+||zgalaxytee.com^
+
+# tentative hosts file for Italian site (https://filtri-dns.ga/filtri.txt) 404 Block
+0.0.0.0 178.32.140.64
+0.0.0.0 24network.it
+0.0.0.0 4strokemedia.com
+0.0.0.0 ad4m.at
+0.0.0.0 ad4mat.it
+0.0.0.0 adagionet.com
+0.0.0.0 adasta.it
+0.0.0.0 adbrawl.com
+0.0.0.0 adbreak.ch
+0.0.0.0 addyon.com
+0.0.0.0 adkaora.space
+0.0.0.0 adnext.it
+0.0.0.0 adpartner.it
+0.0.0.0 adresponse.it
+0.0.0.0 adsolutions.nl
+0.0.0.0 adspro.it
+0.0.0.0 adultsadv.com
+0.0.0.0 adventertainment.it
+0.0.0.0 advhits.com
+0.0.0.0 advit.it
+0.0.0.0 advplace.com
+0.0.0.0 affiliago.it
+0.0.0.0 affiliation.software
+0.0.0.0 affiliationpartner.it
+0.0.0.0 affiliazioni.me
+0.0.0.0 affiliazioniweb.com
+0.0.0.0 atomikad.com
+0.0.0.0 bannerconnect.biz
+0.0.0.0 bannerexplosion.it
+0.0.0.0 bannergratis.it
+0.0.0.0 bannerout.com
+0.0.0.0 bannerporno.com
+0.0.0.0 bannerpress.it
+0.0.0.0 bannerpromotion.it
+0.0.0.0 banzaiadv.it
+0.0.0.0 beead.it
+0.0.0.0 break-even.it
+0.0.0.0 brznetwork.com
+0.0.0.0 btsaffiliations.com
+0.0.0.0 casino-sicuro.it
+0.0.0.0 clacson24.com
+0.0.0.0 clickadv.it
+0.0.0.0 clickcount.pw
+0.0.0.0 clickpoint.it
+0.0.0.0 codesour.com
+0.0.0.0 consigli.it
+0.0.0.0 coreg-feed.com
+0.0.0.0 crmpilot.it
+0.0.0.0 delosnetwork.it
+0.0.0.0 digitalbees.it
+0.0.0.0 disploot.com
+0.0.0.0 eadv.it
+0.0.0.0 easymarketcrs.it
+0.0.0.0 ebuzzing.it
+0.0.0.0 edinetadv.com
+0.0.0.0 epeex.io
+0.0.0.0 evolutionadv.it
+0.0.0.0 firebanner.com
+0.0.0.0 gbucket.ch
+0.0.0.0 go2speed.org
+0.0.0.0 guarda4k.online
+0.0.0.0 hbagency.it
+0.0.0.0 hubaffiliations.net
+0.0.0.0 husfly.com
+0.0.0.0 inaffiliago.it
+0.0.0.0 ioladv.it
+0.0.0.0 iperbanner.com
+0.0.0.0 justearn.it
+0.0.0.0 leaderaffiliation.com
+0.0.0.0 leonardoadv.it
+0.0.0.0 linkto.org
+0.0.0.0 livepartners.it
+0.0.0.0 lopfly.com
+0.0.0.0 mediamond.it
+0.0.0.0 mondoecommerce.it
+0.0.0.0 mycookies.it
+0.0.0.0 natexo-programmatic.com
+0.0.0.0 nativery.com
+0.0.0.0 netfilia.com
+0.0.0.0 netszex.com
+0.0.0.0 newclick.com
+0.0.0.0 noddus.com
+0.0.0.0 novadv.com
+0.0.0.0 open-up.it
+0.0.0.0 overbrowser.com
+0.0.0.0 ovoadv.com
+0.0.0.0 pagetvu.com
+0.0.0.0 panea.it
+0.0.0.0 partypartners.it
+0.0.0.0 payclick.it
+0.0.0.0 paypublicity.it
+0.0.0.0 pirchio.com
+0.0.0.0 plavid.com
+0.0.0.0 preludeadv.it
+0.0.0.0 pronostici.app
+0.0.0.0 prontocampaign.com
+0.0.0.0 publy.net
+0.0.0.0 raddoppia-bitcoin.pro
+0.0.0.0 radxcomm.com
+0.0.0.0 rcsadv.it
+0.0.0.0 reachadv.it
+0.0.0.0 rizzonelli.it
+0.0.0.0 s-lab.it
+0.0.0.0 s-p-o-n-s-o-r.com
+0.0.0.0 sbanner.com
+0.0.0.0 scambiobanner.it
+0.0.0.0 scambiobanner.org
+0.0.0.0 scambiobanner.tv
+0.0.0.0 scambiositi.com
+0.0.0.0 seolabadv.it
+0.0.0.0 seowebbs.com
+0.0.0.0 simpleview.it
+0.0.0.0 softwareplanet.net
+0.0.0.0 soluzionibio.it
+0.0.0.0 spicciolo.com
+0.0.0.0 sunaffiliation.com
+0.0.0.0 superbanner.org
+0.0.0.0 tagvideo.eu
+0.0.0.0 tgadv.it
+0.0.0.0 tgadvcdn.it
+0.0.0.0 tipster.space
+0.0.0.0 tjekscores.dk
+0.0.0.0 topbanner.it
+0.0.0.0 upstory.it
+0.0.0.0 viralbeat.com
+0.0.0.0 wailay.com
+0.0.0.0 wbusiness.fr
+0.0.0.0 widebanner.com
+0.0.0.0 worldfilia.net
+0.0.0.0 yobee.it
+0.0.0.0 zanox-affiliate.de
+0.0.0.0 zariumhb.com
+0.0.0.0 zodiakactive.com
+0.0.0.0 affiliation.majeeko.com
+0.0.0.0 affiliation.sostariffe.it
+0.0.0.0 affiliazioni.misterdomain.eu
+0.0.0.0 atomikecn.nohup.it
+0.0.0.0 casadivita.despar.it
+0.0.0.0 offerte.buste.net
+0.0.0.0 resources.saldiprivati.com
+0.0.0.0 rivenditori.aruba.it
+0.0.0.0 scambiobanner.aruba.it
+0.0.0.0 scambiobanner.net-parade.it
+0.0.0.0 secure.emp-online.it
+0.0.0.0 stats.betradar.com
+0.0.0.0 uplink.aruba.it
+0.0.0.0 viaggiare.columbusassicurazioni.it
+0.0.0.0 vitaquotidiana.com
+0.0.0.0 widget.getyourguide.com
+0.0.0.0 widgets.bookaway.com
+0.0.0.0 ws.shoppydoo.com
+0.0.0.0 pc-on-internet.com
+0.0.0.0 377d936c10e6811f484c-6402e46c712497f58e3f77a59f47bbd5.r17.cf2.rackcdn.com
+0.0.0.0 ad.jamba.it
+0.0.0.0 adagiobanner.s3.amazonaws.com
+0.0.0.0 advx.esprimo.com
+0.0.0.0 affiliati.bet2bet.it
+0.0.0.0 b.trovagnocca.com
+0.0.0.0 banner-madai-com.s3.amazonaws.com
+0.0.0.0 cdn.adultsadv.com
+0.0.0.0 d1yhzddoi8ev99.cloudfront.net
+0.0.0.0 d3f4nuq5dskrej.cloudfront.net
+0.0.0.0 digitaladv.despar.it
+0.0.0.0 free.netsons.com
+0.0.0.0 iads.iltrovatore.it
+0.0.0.0 middycdn-a.akamaihd.net
+0.0.0.0 netrefer-a.akamaihd.net
+0.0.0.0 oasjs.kataweb.it
+0.0.0.0 pop.virgilio.us
+0.0.0.0 promo.easy-dating.org
+0.0.0.0 roi.ediscom.it
+0.0.0.0 sda.quinews.net
+0.0.0.0 widget.promoqui.it
+0.0.0.0 widgets.shop.moda.it
+0.0.0.0 a.trend-online.it
+0.0.0.0 click.html.it
+0.0.0.0 devaje.pourfemme.it
+0.0.0.0 extra.treddi.com
+0.0.0.0 giornalisti.vivere.srl
+0.0.0.0 napolimagazine.biz
+0.0.0.0 oas.repubblica.it
+0.0.0.0 play.cineblog01.bid
+0.0.0.0 plx.pornototale.com
+0.0.0.0 shop.sportal.it
+0.0.0.0 spotmix.libero.it
+0.0.0.0 ad.citynews.it
+0.0.0.0 oipzyrzffum.ovh
+0.0.0.0 golandwin.it
+0.0.0.0 heyos.com
+0.0.0.0 affiliazioniads.snai.it
+0.0.0.0 campaigns.williamhill.it
+0.0.0.0 eurostreaming.cam
+0.0.0.0 lp.starvegas.it
+0.0.0.0 lupoporno.com
+0.0.0.0 mmwebhandler.aff-online.com
+0.0.0.0 okincontri.com
+0.0.0.0 premiogiusto.com
+0.0.0.0 record.betpartners.it
+0.0.0.0 adnxs.com
+0.0.0.0 adroll.com
+0.0.0.0 cintnetworks.com
+0.0.0.0 clickpoint.it
+0.0.0.0 intellitxt.com
+0.0.0.0 ligatus.com
+0.0.0.0 nexac.com
+0.0.0.0 nuggad.net
+0.0.0.0 populis.com
+0.0.0.0 rev2pub.com
+0.0.0.0 rtax.criteo.com
+0.0.0.0 smartadserver.com
+0.0.0.0 thoughtsondance.info
+0.0.0.0 toroadvertising.com
+0.0.0.0 v1n7c.com
+0.0.0.0 yeabble.com
+0.0.0.0 ippen.space
+0.0.0.0 lightboxcdn.com
+0.0.0.0 onecount.net
+0.0.0.0 piano.io
+0.0.0.0 poool.fr
+0.0.0.0 qiota.com
+0.0.0.0 subs.youmaker.com
+0.0.0.0 tribdss.com
+0.0.0.0 50.7.128.74
+0.0.0.0 a.as-eu.falkag.net
+0.0.0.0 a1.interclick.com
+0.0.0.0 accipiter.speedera.net
+0.0.0.0 ad-catgeo.virgilio.it
+0.0.0.0 ad.103092804.com
+0.0.0.0 ad.admitad.com
+0.0.0.0 ad.adorika.com
+0.0.0.0 ad.adserverplus.com
+0.0.0.0 ad.advertstream.com
+0.0.0.0 ad.aim4media.com
+0.0.0.0 ad.amgdgt.com
+0.0.0.0 ad.bnmla.com
+0.0.0.0 ad.directaclick.com
+0.0.0.0 ad.firstadsolution.com
+0.0.0.0 ad.globaltakeoff.net
+0.0.0.0 ad.harrenmedianetwork.com
+0.0.0.0 ad.iconadserver.com
+0.0.0.0 ad.intoscana.it
+0.0.0.0 ad.islaweb.com
+0.0.0.0 ad.linksynergy.com
+0.0.0.0 ad.mwizard.net
+0.0.0.0 ad.pro-advertising.com
+0.0.0.0 ad.reduxmedia.com
+0.0.0.0 ad.sensismediasmart.com.au
+0.0.0.0 ad.spreamedia.it
+0.0.0.0 ad.tlvmedia.com
+0.0.0.0 ad.uk.tangozebra.com
+0.0.0.0 ad.velmedia.net
+0.0.0.0 ad.xzshare.com
+0.0.0.0 ad.yieldmanager.com
+0.0.0.0 ad.z5x.net
+0.0.0.0 ad1.clickhype.com
+0.0.0.0 ad2.billboard.cz
+0.0.0.0 adap.tv
+0.0.0.0 adblocks.xmlscope.net
+0.0.0.0 adbureau.net
+0.0.0.0 adcash.com
+0.0.0.0 addfreestats.com
+0.0.0.0 adform.net
+0.0.0.0 adimg.activeadv.net
+0.0.0.0 adimg.uimserv.net
+0.0.0.0 adk2x.com
+0.0.0.0 admanager.trackset.com
+0.0.0.0 admonkey.cc
+0.0.0.0 adnotbad.com
+0.0.0.0 adopt.hbmediapro.com
+0.0.0.0 adprovider.adlure.net
+0.0.0.0 ads-new.trend-online.com
+0.0.0.0 ads.bitage.it
+0.0.0.0 ads.dada.it
+0.0.0.0 ads.ign.com
+0.0.0.0 ads.niceadv.com
+0.0.0.0 ads.planetamd64.com
+0.0.0.0 ads.trackset.com
+0.0.0.0 ads.webhosting.info
+0.0.0.0 ads2.uptobox.com
+0.0.0.0 adsbywords.com
+0.0.0.0 adserv.free6.com
+0.0.0.0 adserver.3digit.de
+0.0.0.0 adserver.adultfriendfinder.com
+0.0.0.0 adserver.backbeatmedia.com
+0.0.0.0 adserver.envient.com
+0.0.0.0 adserver.hipertextual.com
+0.0.0.0 adserver.html.it
+0.0.0.0 adserver.ikiweb.it
+0.0.0.0 adserver.imevolution.it
+0.0.0.0 adserver.juicyads.com
+0.0.0.0 adserver.pubblicitaonline.itadimage.php
+0.0.0.0 adserver.t21.eu
+0.0.0.0 adserver.zeads.com
+0.0.0.0 adservices.picadmedia.com
+0.0.0.0 adserving.cpxadroit.com
+0.0.0.0 adserving.performgroup.com
+0.0.0.0 adsfast.com
+0.0.0.0 adsignals.com
+0.0.0.0 adspace.img.4tube.com
+0.0.0.0 adsv.blogo.it
+0.0.0.0 adsystem.simplemachines.org
+0.0.0.0 adtech.m7z.net
+0.0.0.0 adtology3.com
+0.0.0.0 advdl.ammadv.it
+0.0.0.0 advertising.com
+0.0.0.0 advmoney.com
+0.0.0.0 advpoints.com
+0.0.0.0 adx.allstar.cz
+0.0.0.0 allsiemens.com
+0.0.0.0 as.casalemedia.com
+0.0.0.0 atwola.com
+0.0.0.0 banner-a.oddcast.com
+0.0.0.0 banner.ipmart.com
+0.0.0.0 banner.sextorrent.to
+0.0.0.0 banner.techtutorials.info
+0.0.0.0 banner.ziobudda.net
+0.0.0.0 banners.adultfriendfinder.com
+0.0.0.0 banners.coolmirage.com
+0.0.0.0 banners.free6.com
+0.0.0.0 banners.getiton.com
+0.0.0.0 banners.italianfriendfinder.com
+0.0.0.0 banners.mellowads.com
+0.0.0.0 banners.passion.com
+0.0.0.0 banners.playocio.com
+0.0.0.0 banners.snapshot.toolbar.conduit-services.com
+0.0.0.0 banners.sugeridos.com
+0.0.0.0 banners.videosz.com
+0.0.0.0 banners.voyeurweb.com
+0.0.0.0 bans.bride.ru
+0.0.0.0 bcp.crwdcntrl.net
+0.0.0.0 beap.gemini.yahoo.com
+0.0.0.0 bn.profiwin.de
+0.0.0.0 cacheonline.titanbet.com
+0.0.0.0 cbanners.virtuagirlhd.com
+0.0.0.0 cdn1.tribalfusion.com
+0.0.0.0 cl.assoc-amazon.com
+0.0.0.0 cls.assoc-amazon.com
+0.0.0.0 cmhtml.it.overture.com
+0.0.0.0 cnt.hd21.com
+0.0.0.0 content.ad20.net
+0.0.0.0 content.iconadserver.com
+0.0.0.0 copyhomework.com
+0.0.0.0 crv.clickad.pl
+0.0.0.0 delivery.ads.gfsrv.net
+0.0.0.0 ds.serving-sys.com
+0.0.0.0 engine.4dsply.com
+0.0.0.0 externos.iw-advertising.com
+0.0.0.0 ff.connextra.com
+0.0.0.0 game-advertising-online.com
+0.0.0.0 geo.yahoo.com
+0.0.0.0 globaladv.net
+0.0.0.0 hop.clickbank.net
+0.0.0.0 i.xx.openx.com
+0.0.0.0 iframe.adultfriendfinder.com
+0.0.0.0 imagecash.servepics.com
+0.0.0.0 img.recadosinsanos.com.br
+0.0.0.0 impresionesweb.com
+0.0.0.0 italiancaldo.com
+0.0.0.0 james.adbutler.de
+0.0.0.0 jcdcover.cjt1.net
+0.0.0.0 js.adlink.net
+0.0.0.0 juiceadv.com
+0.0.0.0 komoona.com
+0.0.0.0 layer-ads.de
+0.0.0.0 linktarget.com
+0.0.0.0 media.adshadow.net
+0.0.0.0 media.fastclick.net
+0.0.0.0 mgid.com
+0.0.0.0 mochiads.com
+0.0.0.0 newt1.adultadworld.com
+0.0.0.0 offers.gratisnetwork.com
+0.0.0.0 openads.mynight.pl
+0.0.0.0 p.adsymptotic.com
+0.0.0.0 pcash.imlive.com
+0.0.0.0 popcash.net
+0.0.0.0 popunder.paypopup.com
+0.0.0.0 ps.eyeota.net
+0.0.0.0 qksrv.net
+0.0.0.0 quiztoolbox.com
+0.0.0.0 readserver.cachefly.net
+0.0.0.0 s.clickiocdn.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 serv.ad-rotator.com
+0.0.0.0 serverads.net
+0.0.0.0 shots.snap.com
+0.0.0.0 sobeautypost.com
+0.0.0.0 srs.targetpoint.com
+0.0.0.0 ssl1.speedera.net
+0.0.0.0 stats.coreg-feed.com
+0.0.0.0 studyeffect.com
+0.0.0.0 target.untd.com
+0.0.0.0 testbooksolutions.com
+0.0.0.0 textads.biz
+0.0.0.0 tooltips.heyos.com
+0.0.0.0 tqlkg.com
+0.0.0.0 tsiban.com
+0.0.0.0 vidible.tv
+0.0.0.0 vote4warez.com
+0.0.0.0 widgets.cam-content.com
+0.0.0.0 yournetaccess.com
+0.0.0.0 z1.adserver.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 cdn.onesignal.com
+0.0.0.0 cryweb.github.io
+0.0.0.0 upgraderservices.cf
+
+#Macedonia Pi-Hole Blocklist (https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt) 194 BLock
+10bet.com
+2mdn.net
+a.kajgana.com
+a.sitel.com.mk
+a.skopjeinfo.mk
+acadv.net
+adxbid.info
+adxpremium.services
+ad.doubleclick.net
+ad.httpool.com
+ad.mox.tv
+adexchange.mk
+adocean.pl
+ads.1cm.com.mk
+ads.360stepeni.mk
+ads.365.mk
+ads.com.mk
+ads.crnobelo.mk
+ads.deca.mk
+ads.ekipa.mk
+ads.emedia.mk
+ads.exdynsrv.com
+ads.faktor.mk
+ads.fakulteti.mk
+ads.fashionel.mk
+ads.fokus.mk
+ads.foxit.mk
+ads.gol.mk
+ads.grouper.mk
+ads.idividi.com.mk
+ads.it.mk
+ads.kafepauza.mk
+ads.kajgana.com
+ads.kanal77.mk
+ads.kumanovonews.com
+ads.libertas.mk
+ads.lokalno.mk
+ads.makfudbal.mk
+ads.mkd.mk
+ads.mms.mk
+ads.nexage.com
+ads.novatv.mk
+ads.pari.com.mk
+ads.plusinfo.mk
+ads.press24.mk
+ads.programattik.com
+ads.pubmatic.com
+ads.24rakomet.mk
+ads.ringaraja.net
+ads.skopjeinfo.mk
+ads.sportm.mk
+ads.sport1.mk
+ads.sportclub.mk
+ads.sportmedia.mk
+ads.stankov.me
+ads.studenti.mk
+ads.telma.com.mk
+ads.tocka.com.mk
+ads.trendolend.mk
+ads.tv21.tv
+ads.vionservices.com
+ads.vrabotuvanje.com.mk
+adsdms.mk
+adserver.mk
+adserver.neotel.mk
+adservice.google.com
+adservice.google.mk
+advertiseserve.com
+amazon-adsystem.com
+aplikacii.com
+baneri.24fudbal.com.mk
+bet365affiliates.com
+bttrack.com
+c.adskeeper.co.uk
+c.mgid.com
+cdn.adskeeper.co.uk
+cdn.mgid.com
+cdn.revcontent.com
+certify-js.alexametrics.com
+certify.alexametrics.com
+clevernt.com
+clickattack.mk
+cm.adskeeper.co.uk
+cm.g.doubleclick.net
+cm.marketgid.com
+cm.mgid.com
+cm.revcontent.com
+coinmedia.tk
+d.agkn.com
+display.nativemedia.rs
+doubleclick.net
+ds-aksb-a.akamaihd.net
+eadsrv.com
+easyads.bg
+easyplatform.com
+gads.pubmatic.com
+gamk.hit.gemius.pl
+googleads.g.doubleclick.net
+googlesyndication.com
+hipersushiads.com
+httpool.com
+httpool.com.mk
+ib.adnxs.com
+images.taboola.com
+img.revcontent.com
+ireklama.mk
+jsc.adskeeper.co.uk
+jsc.mgid.com
+keepaneye.mk
+keepaneyeadmk.hit.gemius.pl
+keepaneyegdemk.hit.gemius.pl
+keepaneyemk.adocean.pl
+lacmus.mk
+live.acads.net
+live.acadv.net
+load77.exelator.com
+loadm.exelator.com
+marketgid.com
+marketing.centar.com.mk
+marketing.utrinskivesnik.mk
+mas.nth.ch
+match.adsrvr.org
+match.taboola.com
+mgid.com
+midas-network.com
+mkkeepaneyegde.adocean.pl
+mobi-promo.com
+mozzart.ideaplus.mk
+n.ads-adnow.com
+n.ads1-adnow.com
+n.ads2-adnow.com
+n.ads3-adnow.com
+n.ads4-adnow.com
+n.ads5-adnow.com
+nativemedia.rs
+net-ads.mk
+onesignal.com
+pagead46.l.doubleclick.net
+panel.ads.com.mk
+pixel.onaudience.com
+pixel.quantserve.com
+pubpress.net
+r.denar.mk
+reklami.24fudbal.mk
+reklami.daily.mk
+reklami.gbccom.com.mk
+relay-mk.ads.httpool.com
+rev.balkanmediagroup.com
+revcontent.com
+revive.futura.net.mk
+rtb.mfadsrvr.com
+s-img.adskeeper.co.uk
+s-img.mgid.com
+s.pubmine.com
+s0.2mdn.net
+s1.adform.net
+s2blosh.com
+sa.daily.mk
+script.dotmetrics.net
+securepubads.g.doubleclick.net
+servicer.adskeeper.co.uk
+servicer.mgid.com
+serving-sys.com
+smartadserver.com
+st-n.ads1-adnow.com
+st-n.ads2-adnow.com
+st-n.ads3-adnow.com
+st-n.ads4-adnow.com
+st-n.ads5-adnow.com
+st-n.gsasd.info
+static-doubleclick-net.l.google.com
+static.doubleclick.net
+stats.g.doubleclick.net
+stats.l.doubleclick.net
+static.off.mk
+storygize.net
+taboola.com
+tags.bluekai.com
+tas-mk.toboads.com
+toboads.com
+track.adform.net
+trc.taboola.com
+trends.revcontent.com
+tv21macedonia.xyz
+vdads2019.com
+video-cdn.marketgid.com
+vionservices.com
+vmads.eu
+www.ads.it.mk
+www.bid.aero
+www.marketgid.com
+www.midas-network.com
+www.storygize.net
+www3.smartadserver.com
+x.bidswitch.net
+
+#Yourlist (https://raw.githubusercontent.com/yous/YousList/master/hosts.txt)  717 Block
+0.0.0.0 3407.tm.zedo.com
+0.0.0.0 7fkm2r4pzi.com
+0.0.0.0 a.adtng.com
+0.0.0.0 a.bf-ad.net
+0.0.0.0 a.exosrv.com
+0.0.0.0 a.komoona.com
+0.0.0.0 a.ligatus.com
+0.0.0.0 a.realsrv.com
+0.0.0.0 a.t.webtracker.jp
+0.0.0.0 a.teads.tv
+0.0.0.0 a.tribalfusion.com
+0.0.0.0 a.vdo.ai
+0.0.0.0 a.wyzmob.com
+0.0.0.0 a1.dp25.kr
+0.0.0.0 a2.acrosspf.com
+0.0.0.0 a2232.casalemedia.com
+0.0.0.0 a4p.adpartner.pro
+0.0.0.0 a870.casalemedia.com
+0.0.0.0 acceptable.a-ads.com
+0.0.0.0 acdn.adnxs.com
+0.0.0.0 ad-cdn.technoratimedia.com
+0.0.0.0 ad-first.co.kr
+0.0.0.0 ad-js.chip.de
+0.0.0.0 ad-playstore.com
+0.0.0.0 ad-unpack.com
+0.0.0.0 ad.3dpop.kr
+0.0.0.0 ad.a-ads.com
+0.0.0.0 ad.about.co.kr
+0.0.0.0 ad.aceplanet.co.kr
+0.0.0.0 ad.ad-stir.com
+0.0.0.0 ad.ad-ya.net
+0.0.0.0 ad.ad4989.co.kr
+0.0.0.0 ad.adenc.co.kr
+0.0.0.0 ad.adinc.kr
+0.0.0.0 ad.adixs.co.kr
+0.0.0.0 ad.adjw.co.kr
+0.0.0.0 ad.adkova.com
+0.0.0.0 ad.adlike.co.kr
+0.0.0.0 ad.adnmore.co.kr
+0.0.0.0 ad.adop.co.kr
+0.0.0.0 ad.adotsolution.com
+0.0.0.0 ad.adpon.jp
+0.0.0.0 ad.aeonad.co.kr
+0.0.0.0 ad.aeonad.net
+0.0.0.0 ad.afy11.net
+0.0.0.0 ad.altervista.org
+0.0.0.0 ad.api.stax.kr
+0.0.0.0 ad.applead.co.kr
+0.0.0.0 ad.atdmt.com
+0.0.0.0 ad.bananamall.co.kr
+0.0.0.0 ad.cauly.co.kr
+0.0.0.0 ad.crwdcntrl.net
+0.0.0.0 ad.daum.net
+0.0.0.0 ad.doyouad.com
+0.0.0.0 ad.dt.co.kr
+0.0.0.0 ad.feedbag.co.kr
+0.0.0.0 ad.gogovid.net
+0.0.0.0 ad.hankooki.com
+0.0.0.0 ad.hankookilbo.com
+0.0.0.0 ad.hooniad.com
+0.0.0.0 ad.idnad.co.kr
+0.0.0.0 ad.ilbe.com
+0.0.0.0 ad.ilikesponsorad.co.kr
+0.0.0.0 ad.ilikesponsorad.com
+0.0.0.0 ad.imp.joins.com
+0.0.0.0 ad.ingfac.co.kr
+0.0.0.0 ad.jjang0u.com
+0.0.0.0 ad.kmib.co.kr
+0.0.0.0 ad.koreadaily.com
+0.0.0.0 ad.linkprice.com
+0.0.0.0 ad.luxnet.ua
+0.0.0.0 ad.mediafarm.co.kr
+0.0.0.0 ad.mediatoday.co.kr
+0.0.0.0 ad.medicaltimes.com
+0.0.0.0 ad.mox.tv
+0.0.0.0 ad.mrab.co.kr
+0.0.0.0 ad.naver.com
+0.0.0.0 ad.newssense.co.kr
+0.0.0.0 ad.nsonmedia.com
+0.0.0.0 ad.openmatch.co.kr
+0.0.0.0 ad.osen.co.kr
+0.0.0.0 ad.owra.net
+0.0.0.0 ad.pentabox.net
+0.0.0.0 ad.phaserep.com
+0.0.0.0 ad.pickple.net
+0.0.0.0 ad.pitta.ne.jp
+0.0.0.0 ad.priel.co.kr
+0.0.0.0 ad.reople.co.kr
+0.0.0.0 ad.sitemaji.com
+0.0.0.0 ad.tf.co.kr
+0.0.0.0 ad.tjtune.com
+0.0.0.0 ad.touchwise.co.kr
+0.0.0.0 ad.tpmn.co.kr
+0.0.0.0 ad.turn.com
+0.0.0.0 ad.vkoad.com
+0.0.0.0 ad.wowtv.co.kr
+0.0.0.0 ad.xc.netinsight.co.kr
+0.0.0.0 ad.xc.nis.nitmus.com
+0.0.0.0 ad.yieldlab.net
+0.0.0.0 ad.yieldmanager.com
+0.0.0.0 ad1.adenc.co.kr
+0.0.0.0 ad1.adfarm1.adition.com
+0.0.0.0 ad1.eventmanager.co.kr
+0.0.0.0 ad1.sportschosun.com
+0.0.0.0 ad1.sportsseoul.com
+0.0.0.0 ad2.thisisgame.com
+0.0.0.0 ad4989.kr
+0.0.0.0 ad79.z00.kr
+0.0.0.0 ad8.adfarm1.adition.com
+0.0.0.0 ad89.z00.kr
+0.0.0.0 ad999.biz
+0.0.0.0 adapi.inlcorp.com
+0.0.0.0 adbiz.co.kr
+0.0.0.0 adbiz2.co.kr
+0.0.0.0 adbiz3.co.kr
+0.0.0.0 adcdn.goo.ne.jp
+0.0.0.0 adclickservice.com
+0.0.0.0 adcode.rontar.com
+0.0.0.0 adcreative.hani.naver.net
+0.0.0.0 adcrm.co.kr
+0.0.0.0 adddn.adotsolution.com
+0.0.0.0 ade.realclick.co.kr
+0.0.0.0 adex.adtree.kr
+0.0.0.0 adex.ednplus.com
+0.0.0.0 adexpert.ad4989.co.kr
+0.0.0.0 adexview.neoebiz.co.kr
+0.0.0.0 adexview.new-star.co.kr
+0.0.0.0 adf.acrosspf.com
+0.0.0.0 adf.send.microad.jp
+0.0.0.0 adfarm.mediaplex.com
+0.0.0.0 adget.co.kr
+0.0.0.0 adgrp1.ad4989.co.kr
+0.0.0.0 adimage.hankookilbo.com
+0.0.0.0 adimg.kstarplay.tv
+0.0.0.0 adimg.nate.com
+0.0.0.0 adimg.nateimg.co.kr
+0.0.0.0 adimg.wisenut.co.kr
+0.0.0.0 adimg1.adinc.co.kr
+0.0.0.0 adin.ad4980.kr
+0.0.0.0 adinc.co.kr
+0.0.0.0 adixs-ad.co.kr
+0.0.0.0 adixs.net
+0.0.0.0 adm.shinobi.jp
+0.0.0.0 adn.adneo.co.kr
+0.0.0.0 adn.inven.co.kr
+0.0.0.0 adn.nsmartad.com
+0.0.0.0 adneo.encock.com
+0.0.0.0 adnetworkperformance.com
+0.0.0.0 adnext.fr
+0.0.0.0 adpick.co.kr
+0.0.0.0 adpingpong.co.kr
+0.0.0.0 adpingpong1.co.kr
+0.0.0.0 adpingpong2.co.kr
+0.0.0.0 adr.realclick.co.kr
+0.0.0.0 adrequisitor-af.lp.uol.com.br
+0.0.0.0 ads-by.yieldselect.com
+0.0.0.0 ads-optima.com
+0.0.0.0 ads-partners.coupang.com
+0.0.0.0 ads.acrosspf.com
+0.0.0.0 ads.ad7942.co.kr
+0.0.0.0 ads.adjust-net.jp
+0.0.0.0 ads.admaru.com
+0.0.0.0 ads.adthrive.com
+0.0.0.0 ads.adverline.com
+0.0.0.0 ads.as.criteo.com
+0.0.0.0 ads.ayads.co
+0.0.0.0 ads.blogherads.com
+0.0.0.0 ads.daara.co.kr
+0.0.0.0 ads.emetro.co.kr
+0.0.0.0 ads.exdynsrv.com
+0.0.0.0 ads.exoclick.com
+0.0.0.0 ads.exosrv.com
+0.0.0.0 ads.gamemeca.com
+0.0.0.0 ads.mangouni.com
+0.0.0.0 ads.mncmedia.co.kr
+0.0.0.0 ads.mobitree.co.kr
+0.0.0.0 ads.nicovideo.jp
+0.0.0.0 ads.priel.co.kr
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 ads.realclick.co.kr
+0.0.0.0 ads.rubiconproject.com
+0.0.0.0 ads.stickyadstv.com
+0.0.0.0 ads.supplyframe.com
+0.0.0.0 ads.tapzin.com
+0.0.0.0 ads.tenping.kr
+0.0.0.0 ads.theporndb.com
+0.0.0.0 ads.tlvmedia.com
+0.0.0.0 ads.yahoo.com
+0.0.0.0 ads.z00.kr
+0.0.0.0 ads1.playforum.net
+0.0.0.0 ads2.contentabc.com
+0.0.0.0 ads3.adinc.co.kr
+0.0.0.0 ads3.tenping.kr
+0.0.0.0 adsearch.adkontekst.pl
+0.0.0.0 adserve.postrelease.com
+0.0.0.0 adserver-us.adtech.advertising.com
+0.0.0.0 adserver.adtech.advertising.com
+0.0.0.0 adserver.adtechus.com
+0.0.0.0 adserver.exoticads.com
+0.0.0.0 adserver.genesismediaus.com
+0.0.0.0 adserver.juicyads.com
+0.0.0.0 adserver.sbtrustmedia.com
+0.0.0.0 adserver.uniqube.tv
+0.0.0.0 adserver.viewgames.co.kr
+0.0.0.0 adspaces.ero-advertising.com
+0.0.0.0 adsrv.kstarplay.tv
+0.0.0.0 adstract.adk2x.com
+0.0.0.0 adsvc2.wisenut.co.kr
+0.0.0.0 adtag.asiaone.com
+0.0.0.0 adtag.cc
+0.0.0.0 adtg.widerplanet.com
+0.0.0.0 adtradradservices.com
+0.0.0.0 adv.dailyissue.co.kr
+0.0.0.0 adv.imadrep.co.kr
+0.0.0.0 adv.khan.co.kr
+0.0.0.0 adv.mediakeep.co.kr
+0.0.0.0 adv.realclick.co.kr
+0.0.0.0 adv.segye.com
+0.0.0.0 adver.clickmon.co.kr
+0.0.0.0 advert.livesportmedia.eu
+0.0.0.0 adverweb.cjenm.com
+0.0.0.0 advimg.ad-mapps.com
+0.0.0.0 adw.heraldm.com
+0.0.0.0 adx-exchange.toast.com
+0.0.0.0 adx.adform.net
+0.0.0.0 adx.bibl.uk
+0.0.0.0 adx.mocoplex.com
+0.0.0.0 adx.naonmedia.net
+0.0.0.0 adx.turl.co.kr
+0.0.0.0 agate.opap.co.kr
+0.0.0.0 ak-gb.marketgid.com
+0.0.0.0 aka-cdn-ns.adtechus.com
+0.0.0.0 aka-cdn.adtechus.com
+0.0.0.0 alea.adam.ad.daum.net
+0.0.0.0 am15.net
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 amsv2.daum.net
+0.0.0.0 an.yandex.ru
+0.0.0.0 aos-creative.prf.hn
+0.0.0.0 ap.lijit.com
+0.0.0.0 ap.tnkfactory.com
+0.0.0.0 apex.go.sonobi.com
+0.0.0.0 api.adjoin.co.kr
+0.0.0.0 api.adns.contentlink.co.kr
+0.0.0.0 api.content.ad
+0.0.0.0 api.ficm.contentlink.co.kr
+0.0.0.0 api.linkmine.co.kr
+0.0.0.0 api.screensharp.kr
+0.0.0.0 api.wiseclick.co.kr
+0.0.0.0 apis.piclick.me
+0.0.0.0 as.dc.impact-ad.jp
+0.0.0.0 asgclickpop.com
+0.0.0.0 assoc-amazon.com
+0.0.0.0 async01.admantx.com
+0.0.0.0 at.atwola.com
+0.0.0.0 ax-d.pixfuture.net
+0.0.0.0 b.a2gw.com
+0.0.0.0 b.bestcontentitem.top
+0.0.0.0 bayabar.com
+0.0.0.0 bdv.bidvertiser.com
+0.0.0.0 berchsoda.com
+0.0.0.0 bizon.kr
+0.0.0.0 blockadsnot.com
+0.0.0.0 bnhtml.com
+0.0.0.0 brightadnetwork.com
+0.0.0.0 brightonclick.com
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 bullseye.backbeatmedia.com
+0.0.0.0 c.adsco.re
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 c.betrad.com
+0.0.0.0 c0.pubmine.com
+0.0.0.0 c1.popads.net
+0.0.0.0 cache.ssend.microad.jp
+0.0.0.0 cad.donga.com
+0.0.0.0 cadvv.heraldm.com
+0.0.0.0 candy.ad9.kr
+0.0.0.0 care-health.co.kr
+0.0.0.0 cas.criteo.com
+0.0.0.0 cast.imp.joins.com
+0.0.0.0 cdn-aitg.widerplanet.com
+0.0.0.0 cdn-exchange.toastoven.net
+0.0.0.0 cdn-fluct.sh.adingo.jp
+0.0.0.0 cdn-gl.imrworldwide.com
+0.0.0.0 cdn-sic.33across.com
+0.0.0.0 cdn.ad.maist.jp
+0.0.0.0 cdn.adgtw.orangeads.fr
+0.0.0.0 cdn.admixer.net
+0.0.0.0 cdn.adpushup.com
+0.0.0.0 cdn.adrtx.net
+0.0.0.0 cdn.adsafeprotected.com
+0.0.0.0 cdn.adsolutions.nl
+0.0.0.0 cdn.adtive.com
+0.0.0.0 cdn.adtrue.com
+0.0.0.0 cdn.blueconic.net
+0.0.0.0 cdn.c-team.jp
+0.0.0.0 cdn.caprofitx.com
+0.0.0.0 cdn.carbonads.com
+0.0.0.0 cdn.connatix.com
+0.0.0.0 cdn.doyouad.com
+0.0.0.0 cdn.engine.spotscenered.info
+0.0.0.0 cdn.exoticads.com
+0.0.0.0 cdn.gmossp-sp.jp
+0.0.0.0 cdn.interworksmedia.co.kr
+0.0.0.0 cdn.itskiddoan.club
+0.0.0.0 cdn.kixer.com
+0.0.0.0 cdn.komoona.com
+0.0.0.0 cdn.megadata.co.kr
+0.0.0.0 cdn.optmd.com
+0.0.0.0 cdn.popmyads.com
+0.0.0.0 cdn.scrollads.co.kr
+0.0.0.0 cdn.stickyadstv.com
+0.0.0.0 cdn.targetpush.co.kr
+0.0.0.0 cdn.teads.tv
+0.0.0.0 cdn.tsyndicate.com
+0.0.0.0 cdn.z00.kr
+0.0.0.0 cdn03.sndkorea.co.kr
+0.0.0.0 cdn04.sndkorea.co.kr
+0.0.0.0 cdn1.smartadserver.com
+0.0.0.0 cdn4.wibbitz.com
+0.0.0.0 celeb.nann.co.kr
+0.0.0.0 cjmooter.xcache.kinxcdn.com
+0.0.0.0 clevernt.com
+0.0.0.0 click.linkadx.com
+0.0.0.0 click.realclick.co.kr
+0.0.0.0 clickstream.cresendo.net
+0.0.0.0 clkads.com
+0.0.0.0 clksite.com
+0.0.0.0 cm.interworksmedia.co.kr
+0.0.0.0 cm.keywordsconnect.com
+0.0.0.0 cm1.icontact.kr
+0.0.0.0 cm1.joins.com
+0.0.0.0 cm1.jssearch.net
+0.0.0.0 cm2.cjmooter.com
+0.0.0.0 cm2.joins.com
+0.0.0.0 cm2.jssearch.net
+0.0.0.0 cm3.jssearch.net
+0.0.0.0 cmbestsrv.com
+0.0.0.0 coin-hive.com
+0.0.0.0 coinhive.com
+0.0.0.0 compass.adop.cc
+0.0.0.0 config.ad-brix.com
+0.0.0.0 contextual.media.net
+0.0.0.0 cperformmedia-a.akamaihd.net
+0.0.0.0 cpv.ad.naver.com
+0.0.0.0 creative.adoffice.11st.co.kr
+0.0.0.0 creative.wwwpromoter.com
+0.0.0.0 cs.gssprt.jp
+0.0.0.0 cst.cstwpush.com
+0.0.0.0 cst.wpu.sh
+0.0.0.0 cuterbond.com
+0.0.0.0 cwdata.itplay.co.kr
+0.0.0.0 cwdata.itsearch.co.kr
+0.0.0.0 cyad1.nate.com
+0.0.0.0 d.a1comm.co.kr
+0.0.0.0 d.adand.co.kr
+0.0.0.0 d.adroll.com
+0.0.0.0 d.pixiv.org
+0.0.0.0 d1jikhx1ssl81z.cloudfront.net
+0.0.0.0 d1swklt9res5jr.cloudfront.net
+0.0.0.0 d1yt8zt4633tzi.cloudfront.net
+0.0.0.0 d22sfab2t5o9bq.cloudfront.net
+0.0.0.0 d269y12mnftu9c.cloudfront.net
+0.0.0.0 d2v02itv0y9u9t.cloudfront.net
+0.0.0.0 d3oep4gb91kpuv.cloudfront.net
+0.0.0.0 d3pkae9owd2lcf.cloudfront.net
+0.0.0.0 d3u5zn5k9864p0.cloudfront.net
+0.0.0.0 d3v3bqdndm4erx.cloudfront.net
+0.0.0.0 dcd.adotsolution.com
+0.0.0.0 delivery.amessagewithabottle.com
+0.0.0.0 delivery.c.switchadhub.com
+0.0.0.0 deliverys.n2s.co.kr
+0.0.0.0 deloton.com
+0.0.0.0 dev.ezadsystem.com
+0.0.0.0 dezf3o8j9jdt6.cloudfront.net
+0.0.0.0 dianomi.com
+0.0.0.0 dis.site3.co.kr
+0.0.0.0 display.ad.daum.net
+0.0.0.0 disqusads.com
+0.0.0.0 dlv.hooniad.com
+0.0.0.0 dnhfi5nn2dt67.cloudfront.net
+0.0.0.0 dotcomconsultancy.advertserve.com
+0.0.0.0 dreamsearch.or.kr
+0.0.0.0 dsp.adzon.net
+0.0.0.0 dsp.dmcmedia.co.kr
+0.0.0.0 dsp.xapads.com
+0.0.0.0 dspserver.adpnut.com
+0.0.0.0 ebdr3.com
+0.0.0.0 ecdn.firstimpression.io
+0.0.0.0 engine.adzerk.net
+0.0.0.0 eto.co.kr
+0.0.0.0 ex.mdtoday.co.kr
+0.0.0.0 ext.apbox.nbp-corp.com
+0.0.0.0 exttag.about.co.kr
+0.0.0.0 fam-ad.com
+0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 feed.4wnet.com
+0.0.0.0 fin.rainbownine.net
+0.0.0.0 finead.o00.kr
+0.0.0.0 fm1.jssearch.net
+0.0.0.0 franecki.net
+0.0.0.0 g.163.com
+0.0.0.0 g.ezoic.net
+0.0.0.0 g.novostimira.biz
+0.0.0.0 g4p.redtram.com
+0.0.0.0 get.keywordsconnect.com
+0.0.0.0 get.optad360.io
+0.0.0.0 get2.keywordsconnect.com
+0.0.0.0 gfp.veta.naver.com
+0.0.0.0 gm-adkpf.gamemeca.com
+0.0.0.0 go.ezoic.net
+0.0.0.0 go.oclasrv.com
+0.0.0.0 go.onclasrv.com
+0.0.0.0 go.pub2srv.com
+0.0.0.0 go.xlviiirdr.com
+0.0.0.0 gsad.gameshot.net
+0.0.0.0 guide.allblet.net
+0.0.0.0 h.adscope.co.kr
+0.0.0.0 hb.vntsm.com
+0.0.0.0 heartilyfootindebted.com
+0.0.0.0 i.ligatus.com
+0.0.0.0 i.mediatraffic.com.ua
+0.0.0.0 ib.3lift.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 iicdn.com
+0.0.0.0 ilikeview.com
+0.0.0.0 im.obel.kr
+0.0.0.0 image.cauly.co.kr
+0.0.0.0 image.lottorich.co.kr
+0.0.0.0 imagesrv.adition.com
+0.0.0.0 img.1rx.io
+0.0.0.0 img.ak.impact-ad.jp
+0.0.0.0 img.mobon.net
+0.0.0.0 img.mrep.kr
+0.0.0.0 img.scupio.com
+0.0.0.0 img2.keywordsconnect.com
+0.0.0.0 imp.mklaud.com
+0.0.0.0 imp.tradedoubler.com
+0.0.0.0 imp.valuepotion.com
+0.0.0.0 inrhyhorntor.com
+0.0.0.0 insight.adsrvr.org
+0.0.0.0 interface.interworksmedia.co.kr
+0.0.0.0 inv-nets.admixer.net
+0.0.0.0 inv-t-node.admixer.net
+0.0.0.0 io1.innorame.com
+0.0.0.0 j.microad.net
+0.0.0.0 j.zucks.net.zimg.jp
+0.0.0.0 jadserve.postrelease.com
+0.0.0.0 joy-adstore.co.kr
+0.0.0.0 js-sec.indexww.com
+0.0.0.0 js.ad-score.com
+0.0.0.0 js.ad-stir.com
+0.0.0.0 js.ad4989.co.kr
+0.0.0.0 js.adagio.upstory.it
+0.0.0.0 js.bigfineads.com
+0.0.0.0 js.gsspcln.jp
+0.0.0.0 js.gumgum.com
+0.0.0.0 js.himediads.com
+0.0.0.0 js.hnscom.com
+0.0.0.0 js.keywordsconnect.com
+0.0.0.0 js.medi-8.net
+0.0.0.0 js.mtburn.com
+0.0.0.0 js.newsmobile.co.kr
+0.0.0.0 js.theprimead.co.kr
+0.0.0.0 js2.keywordsconnect.com
+0.0.0.0 jsc.adskeeper.co.uk
+0.0.0.0 jsc.marketgid.com
+0.0.0.0 jsc.mgid.com
+0.0.0.0 jsc.traffic-media.co.uk
+0.0.0.0 jshoppingbox.joinsmsn.com
+0.0.0.0 jsn.dt00.net
+0.0.0.0 k77hof1z7k.com
+0.0.0.0 kakaostyle.loginside.co.kr
+0.0.0.0 keyword.ad4989.co.kr
+0.0.0.0 kn.acrosspf.com
+0.0.0.0 kodcad.kr
+0.0.0.0 l.qq.com
+0.0.0.0 lightad.co.kr
+0.0.0.0 lightasp.dmcmedia.co.kr
+0.0.0.0 log.adtive.com
+0.0.0.0 loginside.co.kr
+0.0.0.0 longkeyone.co.kr
+0.0.0.0 lorybnfh.com
+0.0.0.0 lotteryhibernateauthorized.com
+0.0.0.0 m.adnxs.com
+0.0.0.0 m.adtc.daum.net
+0.0.0.0 madspmz.com
+0.0.0.0 magento-analytics.com
+0.0.0.0 mainclc.com
+0.0.0.0 marketingking.co.kr
+0.0.0.0 media.adpnut.com
+0.0.0.0 media.adrcdn.com
+0.0.0.0 mediacategory.com
+0.0.0.0 mediaindex.co.kr
+0.0.0.0 mediamixad.com
+0.0.0.0 mediarichad.com
+0.0.0.0 mediaview.co.kr
+0.0.0.0 mg.dt00.net
+0.0.0.0 microbizit.com
+0.0.0.0 microopenpop.com
+0.0.0.0 minishop.linkprice.com
+0.0.0.0 mktag.mt.co.kr
+0.0.0.0 mobi.luxad.kr
+0.0.0.0 mobi.luxad.net
+0.0.0.0 mobs.luxad.kr
+0.0.0.0 mp.mmnneo.com
+0.0.0.0 mrelko.com
+0.0.0.0 msadsense.com
+0.0.0.0 mtag.mman.kr
+0.0.0.0 mv.ad.naver.com
+0.0.0.0 mxttrf.com
+0.0.0.0 mycdn.co
+0.0.0.0 mymyad.co.kr
+0.0.0.0 myvip.feeldmc.com
+0.0.0.0 n162adserv.com
+0.0.0.0 na.mmnneo.com
+0.0.0.0 nad1.mklaud.com
+0.0.0.0 nads.lumieyes.com
+0.0.0.0 nefing.com
+0.0.0.0 networkad.nate.com
+0.0.0.0 new.jshopbox.com
+0.0.0.0 news.smi2.ru
+0.0.0.0 newsbanner.co.kr
+0.0.0.0 nex.163.com
+0.0.0.0 np-adkpf.newscloud.or.kr
+0.0.0.0 npttech.com
+0.0.0.0 nscreen.neoebiz.co.kr
+0.0.0.0 nv.veta.naver.com
+0.0.0.0 nvapi.feeldmc.com
+0.0.0.0 nw.realssp.co.kr
+0.0.0.0 nws.lumieyes.com
+0.0.0.0 oload.cloud
+0.0.0.0 oload.tv
+0.0.0.0 onclickads.net
+0.0.0.0 onclickalgo.com
+0.0.0.0 onclickgenius.com
+0.0.0.0 onclickperformance.com
+0.0.0.0 onclicktop.com
+0.0.0.0 onclkds.com
+0.0.0.0 onedrive.su
+0.0.0.0 onetag-sys.com
+0.0.0.0 onshowit.com
+0.0.0.0 op.mmnneo.com
+0.0.0.0 op.neoad.co.kr
+0.0.0.0 open.oneplus.net
+0.0.0.0 optimized-by.4wnetwork.com
+0.0.0.0 outbanner.hu.co.kr
+0.0.0.0 p.lumieyes.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 pd4-imp.revsci.net
+0.0.0.0 pixel.adsafeprotected.com
+0.0.0.0 pixon.ads-pixiv.net
+0.0.0.0 plug.plufdsb.com
+0.0.0.0 plugin.2beon.co.kr
+0.0.0.0 plugin.adplex.co.kr
+0.0.0.0 polltest.azurewebsites.net
+0.0.0.0 pop.site3.co.kr
+0.0.0.0 ppdxyz.info
+0.0.0.0 pq-direct.revsci.net
+0.0.0.0 prebid.districtm.ca
+0.0.0.0 prism.pandora.tv
+0.0.0.0 prwidgets.com
+0.0.0.0 ps.ns-cdn.com
+0.0.0.0 pub.adpnut.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 pubtags.addoor.net
+0.0.0.0 pureadexchange.com
+0.0.0.0 pussl35.com
+0.0.0.0 pv.ntomap.com
+0.0.0.0 pv.tag.ntomap.com
+0.0.0.0 qmca.qrobo.com
+0.0.0.0 quick.1rtl.info
+0.0.0.0 ra.ntwoad.co.kr
+0.0.0.0 rcm.amazon.com
+0.0.0.0 realdsp.realclick.co.kr
+0.0.0.0 rebevengwas.com
+0.0.0.0 recreativ.ru
+0.0.0.0 redir.adap.tv
+0.0.0.0 render.helios.ligatus.com
+0.0.0.0 resources.infolinks.com
+0.0.0.0 revenuecpmnetwork.com
+0.0.0.0 rsense-ad.realclick.co.kr
+0.0.0.0 rtb.adgrx.com
+0.0.0.0 s.atemda.com
+0.0.0.0 s.dolphincdn.xyz
+0.0.0.0 s.mixadvert.com
+0.0.0.0 s.ntv.io
+0.0.0.0 s.pubmine.com
+0.0.0.0 s.spoutable.com
+0.0.0.0 s1.adform.net
+0.0.0.0 s2.adform.net
+0.0.0.0 s3.buysellads.com
+0.0.0.0 sba.about.co.kr
+0.0.0.0 sc2.appldp.com
+0.0.0.0 scdn.cxense.com
+0.0.0.0 scr.nsmartad.com
+0.0.0.0 script.adsquare.co.kr
+0.0.0.0 script.ioam.de
+0.0.0.0 script.keywordlink.co.kr
+0.0.0.0 script.nowcall.co.kr
+0.0.0.0 script.theprimead.co.kr
+0.0.0.0 scripts.adrcdn.com
+0.0.0.0 scripts.chitika.net
+0.0.0.0 scripts.kiosked.com
+0.0.0.0 sdk.streamrail.com
+0.0.0.0 search.n2s.co.kr
+0.0.0.0 search.supplyframe.com
+0.0.0.0 search2.nuriclick.co.kr
+0.0.0.0 searchmaster.pro
+0.0.0.0 secure-ads.pictela.net
+0.0.0.0 secure.adnxs.com
+0.0.0.0 secure.uac.advertising.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 securite.01net.com
+0.0.0.0 serv.ads.pixiv.org
+0.0.0.0 serve.popads.net
+0.0.0.0 server.cpmstar.com
+0.0.0.0 server1.affiz.net
+0.0.0.0 servicer.marketgid.com
+0.0.0.0 services.vlitag.com
+0.0.0.0 serving.adbetclickin.pink
+0.0.0.0 sgate.opap.co.kr
+0.0.0.0 sh.adingo.jp
+0.0.0.0 shopers.co.kr
+0.0.0.0 shoppingbox.joinsmsn.com
+0.0.0.0 simg.imadrep.co.kr
+0.0.0.0 sin1.g.adnxs.com
+0.0.0.0 site3.co.kr
+0.0.0.0 smartadserver.com
+0.0.0.0 smartposting.net
+0.0.0.0 sndkorea.nowcdn.co.kr
+0.0.0.0 sosa.semanticrep.com
+0.0.0.0 sp.gmossp-sp.jp
+0.0.0.0 sp1.jssearch.net
+0.0.0.0 spad.i-mobile.co.jp
+0.0.0.0 spdeliver.i-mobile.co.jp
+0.0.0.0 spdeliverp.i-mobile.co.jp
+0.0.0.0 srv.bebi.com
+0.0.0.0 ssp.adpies.com
+0.0.0.0 ssp.advg.jp
+0.0.0.0 ssp.igaw.io
+0.0.0.0 ssp.meba.kr
+0.0.0.0 ssp.rambler.ru
+0.0.0.0 ssp.realclick.co.kr
+0.0.0.0 sspi.adpopcorn.com
+0.0.0.0 st.bebi.com
+0.0.0.0 st.keywordsconnect.com
+0.0.0.0 static.adxadserv.com
+0.0.0.0 static.chameleon.ad
+0.0.0.0 static.criteo.net
+0.0.0.0 static.escdn.co
+0.0.0.0 static.pdn-1.com
+0.0.0.0 static.tpmn.co.kr
+0.0.0.0 sticker.yadro.ru
+0.0.0.0 sunnyworks.co.kr
+0.0.0.0 surgeprice.com
+0.0.0.0 swf.adget.co.kr
+0.0.0.0 syndication.exdynsrv.com
+0.0.0.0 syndication.exoclick.com
+0.0.0.0 syndication.exosrv.com
+0.0.0.0 syndication.realsrv.com
+0.0.0.0 syndication.traffichaus.com
+0.0.0.0 t.mdn2015x1.com
+0.0.0.0 t.tmdn2015x9.com
+0.0.0.0 tab.clickmon.co.kr
+0.0.0.0 tab2-cdn.rubiconproject.com
+0.0.0.0 tag.targeting.unrulymedia.com
+0.0.0.0 tag.vlitag.com
+0.0.0.0 tags.expo9.exponential.com
+0.0.0.0 tags.h12-media.com
+0.0.0.0 tags.mathtag.com
+0.0.0.0 thealarm2018.cafe24.com
+0.0.0.0 ti-center.co.kr
+0.0.0.0 tl.mmnneo.com
+0.0.0.0 tm.interworksmedia.co.kr
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 tr.project-ad.jp
+0.0.0.0 tracker.adbinead.com
+0.0.0.0 tracker.digitalcamp.co.kr
+0.0.0.0 tracker.nodojs.nl
+0.0.0.0 traffic.adxprts.com
+0.0.0.0 trafmag.com
+0.0.0.0 ts.2beon.co.kr
+0.0.0.0 tsyndicate.com
+0.0.0.0 udmserve.net
+0.0.0.0 unionpress.co.kr
+0.0.0.0 unse4u.com
+0.0.0.0 uplus.kr
+0.0.0.0 urldelivery.com
+0.0.0.0 v5.actionteaser.ru
+0.0.0.0 vast.revcontent.com
+0.0.0.0 veta.naver.com
+0.0.0.0 vhldwuv6om.com
+0.0.0.0 vod.shoppingcall.me
+0.0.0.0 vpaid.pubmatic.com
+0.0.0.0 vplayer.dawin.tv
+0.0.0.0 vsc.send.microad.jp
+0.0.0.0 vse-spravki.bid
+0.0.0.0 web-sdk.shallweadcorp.com
+0.0.0.0 web.n2s.co.kr
+0.0.0.0 wec.co.kr
+0.0.0.0 widget.barnebys.com
+0.0.0.0 wlog.ifdo.co.kr
+0.0.0.0 wonderhsjnsd.com
+0.0.0.0 wr.catad5959.com
+0.0.0.0 ww3.vidzi.tv
+0.0.0.0 x.jd.com
+0.0.0.0 xml.affiliate.rakuten.co.jp
+0.0.0.0 y.one.impact-ad.jp
+0.0.0.0 yads.c.yimg.jp
+0.0.0.0 yads.yahoo.co.jp
+0.0.0.0 yads.yjtag.yahoo.co.jp
+0.0.0.0 yfetyg.com
+0.0.0.0 you.claremedia.co.kr
+0.0.0.0 z.moatads.com
+0.0.0.0 zbnfhsk.com
+0.0.0.0 zone5.adpopcon.com
+
+#Dandelion Sprouts nordiske filtre (https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt)
+||102.112.2o7.net^
+||5e529.v.fwmrm.net^
+||a.recordere.dk^
+||a1match.dk^
+||ad.no.doubleclick.net^
+||ad.shareholders.dk^
+||ad.wmt.dk^
+||ad2.emediate.dk^
+||ad3.emediate.dk^
+||ad4.emediate.dk^
+||ad5.emediate.dk^
+||ad6.emediate.dk^
+||ad7.emediate.dk^
+||ad8.emediate.dk^
+||ad9.emediate.dk^
+||addmoviesnow.com^
+||adext.inkclub.com^
+||adidasko.com^
+||admanager.no^
+||admanager.norrbom.com^
+||adminflex.dk^
+||admob.dk^
+||admob.no^
+||adnordics.com^
+||ads.abbythetraveler.com^
+
+#Polish filters for Pi hole (https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt) 171 Block
+0.0.0.0 0x01n2ptpuz3.com
+0.0.0.0 69oxt4q05.com
+0.0.0.0 a.ib.gazeta.pl
+0.0.0.0 achcdn.com
+0.0.0.0 ad.bitbay.net
+0.0.0.0 ad.docer.pl
+0.0.0.0 ad.facetpo40.pl
+0.0.0.0 ad.ipolska.pl
+0.0.0.0 ad.myapple.pl
+0.0.0.0 ad.vider.pl
+0.0.0.0 ad.webshark.pl
+0.0.0.0 ad.winiso.pl
+0.0.0.0 ad.zanox.com
+0.0.0.0 adclick.lt
+0.0.0.0 adform.net
+0.0.0.0 adk.docer.pl
+0.0.0.0 adocean.pl
+0.0.0.0 adraker-dev.azureedge.net
+0.0.0.0 ads-analytic.com
+0.0.0.0 ads-tejot.pl
+0.0.0.0 ads.gry-online.pl
+0.0.0.0 adtelier.pl
+0.0.0.0 adv.herocraft.com
+0.0.0.0 adv.wp.pl
+0.0.0.0 advertising.com
+0.0.0.0 affiliates-solutions.com
+0.0.0.0 agoraperformance.pl
+0.0.0.0 almuradtiles.zohosites.com
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 angeldonationblog.com
+0.0.0.0 angelo.fernandonguyen.online
+0.0.0.0 api.systempartnerski.pl
+0.0.0.0 app.shopeneo.network
+0.0.0.0 aranzujemy.co.pl
+0.0.0.0 b54m4qbmt0b9.com
+0.0.0.0 betegy.com
+0.0.0.0 bioway.pl
+0.0.0.0 blubroid.de
+0.0.0.0 bodelen.com
+0.0.0.0 boxarchives.xyz
+0.0.0.0 brand.ad
+0.0.0.0 burdaffi.burdadigital.pl
+0.0.0.0 buzz.give5.pl
+0.0.0.0 click.aliexpress.com
+0.0.0.0 clkpl.tradedoubler.com
+0.0.0.0 codevexillium.org
+0.0.0.0 coin-have.com
+0.0.0.0 coin-hive.com
+0.0.0.0 coinhive.com
+0.0.0.0 colasprint.com
+0.0.0.0 contextweb.com
+0.0.0.0 corto.www.wp.pl
+0.0.0.0 d1f5rbi95y1icu.cloudfront.net
+0.0.0.0 d22sfab2t5o9bq.cloudfront.net
+0.0.0.0 daib.pl
+0.0.0.0 damdaj.pl
+0.0.0.0 dansotant.xyz
+0.0.0.0 darksidebox.xyz
+0.0.0.0 dexessee.com
+0.0.0.0 disqusads.com
+0.0.0.0 doubleclick.net
+0.0.0.0 drda5yf9kgz5p.cloudfront.net
+0.0.0.0 dronerc.it
+0.0.0.0 dsnpj.shop
+0.0.0.0 dynacrems.wp.pl
+0.0.0.0 ebrokerpartner.pl
+0.0.0.0 edujikim.com
+0.0.0.0 embed.powercontent.pl
+0.0.0.0 exyzz.pl
+0.0.0.0 fabioluciani.com
+0.0.0.0 fads.online
+0.0.0.0 fadstrack.com
+0.0.0.0 faidoud.com
+0.0.0.0 fireads.network
+0.0.0.0 fknixrgkmhkn.com
+0.0.0.0 fkref.com
+0.0.0.0 foresig-market.biz
+0.0.0.0 gasurvey.gemius.com
+0.0.0.0 glaimtug.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 goprediction.com
+0.0.0.0 groorgex.net
+0.0.0.0 honorata-skarbek.com
+0.0.0.0 hyphenion.com
+0.0.0.0 img.lzrikate.com
+0.0.0.0 indexww.com
+0.0.0.0 info.evidon.com
+0.0.0.0 investbooking.de
+0.0.0.0 ipla.hit.stat24.com
+0.0.0.0 kaunairu.net
+0.0.0.0 keechavy.com
+0.0.0.0 kinoseans.pl
+0.0.0.0 konto.amronet.pl
+0.0.0.0 krakenfolio.com
+0.0.0.0 lcx.pl
+0.0.0.0 leadexpert.pl
+0.0.0.0 lib.ads4g.pl
+0.0.0.0 lijjt.com
+0.0.0.0 mahieutin.xyz
+0.0.0.0 managebox.xyz
+0.0.0.0 marketplace.ofeminin.pl
+0.0.0.0 media.stsaff.pl
+0.0.0.0 mg.steepto.com
+0.0.0.0 moviads.pl
+0.0.0.0 mrex.exs.pl
+0.0.0.0 n.serialeonline.pl
+0.0.0.0 nextclick.pl
+0.0.0.0 online-mexos.efortuna.pl
+0.0.0.0 opsonew3org.sg
+0.0.0.0 ovh.webshark.pl
+0.0.0.0 partnerzyapi.ceneo.pl
+0.0.0.0 peachlandeu.com
+0.0.0.0 pinvazo.com
+0.0.0.0 pl.tradenewsinvesting.com
+0.0.0.0 placehold.it
+0.0.0.0 pollster.pl
+0.0.0.0 pp.funhub.pl
+0.0.0.0 pub.contexthub.net
+0.0.0.0 quantcast.mgr.consensu.org
+0.0.0.0 raupsica.net
+0.0.0.0 rec-ir.quartic.pl
+0.0.0.0 rect.b2bpersonals.net
+0.0.0.0 reddevilsrugby.co.uk
+0.0.0.0 redhatbox.xyz
+0.0.0.0 redusugar.pl
+0.0.0.0 reklama-lowicz.pl
+0.0.0.0 reklamawadowice24.pl
+0.0.0.0 reklamy.grupafarmacja.net
+0.0.0.0 remtoaku.net
+0.0.0.0 restauracjafusion.pl
+0.0.0.0 rinsouxy.com
+0.0.0.0 ro88qcuy.com
+0.0.0.0 roojouma.com
+0.0.0.0 s.bankier.pl
+0.0.0.0 service.weben1.com
+0.0.0.0 serwer1566493.home.pl
+0.0.0.0 shift.oferty-kredytowe.pl
+0.0.0.0 shoplov.in
+0.0.0.0 smartadserver.com
+0.0.0.0 sooloaph.com
+0.0.0.0 spacead.pl
+0.0.0.0 sport32news.com
+0.0.0.0 start.livezilla.net
+0.0.0.0 stg.wp.pl
+0.0.0.0 syndication.exdynsrv.com
+0.0.0.0 thiksikr.com
+0.0.0.0 track.aftermarket.pl
+0.0.0.0 track.cux.io
+0.0.0.0 track.omgpl.com
+0.0.0.0 transferwiser.io
+0.0.0.0 transplugin.io
+0.0.0.0 trophylab.com
+0.0.0.0 truelovesbeauty.co.uk
+0.0.0.0 ulixes.pl
+0.0.0.0 uod2quk646.com
+0.0.0.0 vaks.pl
+0.0.0.0 video.vid4u.org
+0.0.0.0 visualrevenue.com
+0.0.0.0 webep1.com
+0.0.0.0 whegadry.com
+0.0.0.0 widget.aftermarket.pl
+0.0.0.0 wple.net
+0.0.0.0 wss.analyticacdn.com
+0.0.0.0 wtg-ads.com
+0.0.0.0 ww1.flashx.net
+0.0.0.0 www.adfreestyle.pl
+0.0.0.0 www.comperialead.pl
+0.0.0.0 www.livezilla.net
+0.0.0.0 www.mp3zik.net
+0.0.0.0 zas.mylead.global
+0.0.0.0 zostofou.link
+0.0.0.0 zukxd6fkxqn.com
+
+#Swedish websites (https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt) 908 block
+1terms.com
+5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
+7hd.org
+9bfecbk266b40u4qo1fqkh1mj.litix.io
+38d9cb358a39997f9864cecf832b8d58884a6e067d.nuid.imrworldwide.com
+1221d63988a216e58e8ee4e8bb38598031fdba93e0.nuid.imrworldwide.com
+4898337.fls.doubleclick.net
+6321239.fls.doubleclick.net
+197654070b0e4b05add9b2994aea3887.js.ubembed.com
+a.adroll.com
+a.adtech.de
+a.omappapi.com
+a.opmnstr.com
+a.optmnstr.com
+a.teads.tv
+a.zxcvads.com
+accesslnk.com
+acdn.adnxs.com
+ad.doubleclick.net
+ad.impactify.io
+ad.iplayer.org
+ad.linksynergy.com
+ad.lkqd.net
+ad.mox.tv
+ad.spreaker.com
+ad.sxp.smartclip.net
+ad.yieldlab.net
+ad.zanox.com
+ad1.emediate.dk
+ad1.emediate.se
+ad2.emediate.dk
+ad2.emediate.se
+ad3.emediate.dk
+ad3.emediate.se
+ad4.emediate.dk
+ad4.emediate.se
+ad5.emediate.dk
+ad5.emediate.se
+ad6.emediate.dk
+ad6.emediate.se
+ad7.emediate.dk
+ad7.emediate.se
+ad8.emediate.dk
+ad8.emediate.se
+ad9.emediate.dk
+ad9.emediate.se
+adcell.io
+adclick.se
+addy.expressen.se
+adeprimo.se
+adglare.net
+adhost.se
+adnami.io
+adnami2.io
+adncdnend.azureedge.net
+adnuntius.com
+adonstudio.com
+adpeepshosted.com
+adrecord.com
+adroll.com
+ads.affiliate.legolas.bet
+ads.aland.com
+ads.annonsbladet.com
+ads.aralego.com
+ads.compro.se
+ads.docunordic.net
+ads.expekt.se
+ads.fotosidan.se
+ads.holid.io
+ads.insikt24.se
+ads.internet24.se
+ads.kelkoo.com
+ads.lektion.se
+ads.mainloop.net
+ads.motorvarlden.se
+ads.mrgreen.com
+ads.nordreportern.se
+ads.nyatider.nu
+ads.playpilot.com
+ads.pubmatic.com
+ads.rubiconproject.com
+ads.skargarden.se
+ads.skidspar.se
+ads.skolvarlden.se
+ads.spania.no
+ads.stickyadstv.com
+ads.themoneytizer.com
+ads.ungdomar.se
+ads.varldenidag.se
+ads.veterinaren.nu
+ads.vidoomy.com
+ads.viralize.tv
+adsby.bidtheatre.com
+adserver.adtech.de
+adserver.infotorg.se
+adserver.so-rummet.se
+adservice.google.se
+adservicemedia.dk
+adsettings.com
+adtomafusion.com
+adtr.io
+adtraction.com
+advert.livesportmedia.eu
+advert.rabaldermedia.se
+adx.adform.net
+ad.360yield.com
+af.analytics.elx.cloud
+aff.bstatic.com
+affiliator.com
+ai.idg.se
+aka-cdn.adtech.de
+aka-cdn-ns.adtech.de
+albacross.com
+ambassador.referralhero.com
+ana.headerlift.com
+analytics.clickdimensions.com
+analytics.codigo.se
+analytics.freespee.com
+analytics.ica.se
+analytics.imponline.com
+analytics.kaltura.com
+analytics.kb.se
+analytics.mailmunch.co
+analytics.netcent.se
+analytics.nikkasystems.com
+analytics.sunet.se
+analytics.svt.se
+analytics-sdk.yle.fi
+analytics.ci-360.se
+angry-golick-2a96e5.netlify.app
+annoncer.nichehuset.dk
+annons.lidkopingsnytt.nu
+annons.svenskjakt.se
+annons.turist.se
+annonsera.kyrkanstidning.se
+anonymousdemographics.com
+apccdn.apsis1.com
+api.deep.bi
+api.fouanalytics.com
+api.getlevelten.com
+api.innomdc.com
+api.ipify.org
+api.retargetly.com
+api.segment.io
+api3847.d41.co
+app.converdiant.com
+app.interactiveads.ai
+app.truconversion.com
+app.yieldify.com
+app3.salesmanago.pl
+apps.shareaholic.com
+apps-cdn.relevant-digital.com
+apsislead.com
+aquaplatform.com
+arbetaren.innocraft.cloud
+asmassets.mtvnservices.com
+asset.pagefair.com
+assets.adnuntius.com
+assets.bonad.io
+assets.heylink.com
+assets.revcontent.com
+assets.strossle.com
+as-sec.casalemedia.com
+auction-release.mlpapi.com
+audience.systems
+autodeal.agilecrm.com
+autoleasedi.bytelab.dk
+ax.idg.se
+azalead.com
+b1.trickyrock.com
+b2btagmgr.azalead.com
+back.revrelations.com
+bam.bonad.io
+banners.instaforex.com
+bannersnack.com
+bc.marfeelcache.com
+bcm.interactives.dk
+bellmetric.net
+besstahete.info
+bet365affiliates.com
+betrad.com
+bettersport.se
+bettingstugan.se
+bid.g.doubleclick.net
+bilpolicydi.bytelab.dk
+biowebb-data.s3.amazonaws.com
+bitstarz.com
+bjursundfastigheter.se
+bmbstatic.blob.core.windows.net
+bn-01d.adtomafusion.com
+boost-cdn.manatee.dk
+boot.pbstck.com
+borsvarlden-banners.azurewebsites.net
+branch.io
+brandy.bonniernewslifestyle.se
+brews.marketale.com
+browser-http-intake.logs.datadoghq.com
+browser-http-intake.logs.datadoghq.eu
+bs.serving-sys.com
+bulletproof-analytics.com
+buzzador.com
+b-code.liadm.com
+c.adsco.re
+c.cintnetworks.com
+c.eacla.com
+c.flx1.com
+cache6.riedta.com
+cameraeushop.com
+carneoam.com
+casinotoplists.com
+ccjnhnqfnvsr3otokvf59ns52.litix.io
+cd.connatix.com
+cdn.adfenix.com
+cdn.adnuntius.com
+cdn.adpushup.com
+cdn.adspirit.de
+cdn.adswizz.com
+cdn.adt328.com
+cdn.adt356.com
+cdn.adt357.net
+cdn.adt361.com
+cdn.adt511.net
+cdn.adt532.com
+cdn.adt545.net
+cdn.adt598.com
+cdn.adtrue.com
+cdn.advisible.com
+cdn.amplitude.com
+cdn.appsmav.com
+cdn.bannerflow.com
+cdn.bannersnack.com
+cdn.biddercore.io
+cdn.blueconic.net
+cdn.branch.io
+cdn.brandmetrics.com
+cdn.broadstreetads.com
+cdn.churnkit.com
+cdn.connatix.com
+cdn.convertbox.com
+cdn.cxense.com
+cdn.foxpush.net
+cdn.hubvisor.io
+cdn.insurads.com
+cdn.izooto.com
+cdn.jst.ai
+cdn.maaw.io
+cdn.matomo.cloud
+cdn.maxetise.net
+cdn.myadmessenger.com
+cdn.onthe.io
+cdn.oribi.io
+cdn.permutive.com
+cdn.popt.in
+cdn.pushcrew.com
+cdn.reaktion.se
+cdn.rollbar.com
+cdn.shareaholic.net
+cdn.snigelweb.com
+cdn.speedcurve.com
+cdn.taboola.com
+cdn.usefathom.com
+cdn.userreport.com
+cdn.viglink.com
+cdn.webpushr.com
+cdn.wootric.com
+cdn.yieldwrapper.com
+cdn001.milotree.com
+cdn-0.d41.co
+cdn-3.convertexperiments.com
+cdn-a.yieldlove.com
+cdn-eu.clickdimensions.com
+cdn-gl.imrworldwide.com
+cdn-scripts.signifyd.com
+cdn.dep-x.com
+cdn.relevant-digital.com
+cdn.vip-hd-movies.xyz
+cdn.zx-adnet.com
+ce15487c31ed84e82d0694948a8889f7e3b1685d54.nuid.imrworldwide.com
+ced.sascdn.com
+cintnetworks.com
+cision.com
+cl.k5a.io
+claremontspringstreet.com
+clevernt.com
+click.vgnett.no
+clickdimensions.com
+clientcdn.pushengage.com
+cl-eu2.k5a.io
+cmp.network-n.com
+code3.adtlgc.com
+collect.breakit.se
+collector.brandmetrics.com
+collector.cint.com
+collector.schibsted.io
+collector.houston-analytics.com
+connectad.io
+connectio.s3.amazonaws.com
+content.adten.eu
+content.livesportmedia.eu
+contextual.media.net
+convertexperiments.com
+core.centotag.io
+core.manatee.io
+counter.theconversation.com
+counter.yadro.ru
+creative.prf.hn
+creatives.bidtheatre.com
+creative-serving.com
+cs.ns1p.net
+ctx.matchads.net
+curedonswab.com
+curemedia.se
+cxpublic.com
+d.suntcontent.se
+d1z2jf7jlzjs58.cloudfront.net
+d3lcz8vpax4lo2.cloudfront.net
+d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
+d9v72urx9pbbc.cloudfront.net
+d24rtvkqjwgutp.cloudfront.net
+d33s3ffr7fotas.cloudfront.net
+d191y0yd6d0jy4.cloudfront.net
+d261u4g5nqprix.cloudfront.net
+dackpartner-web.s3.amazonaws.com
+dagenstv.112.2o7.net
+dash.sparkloop.app
+data.adnuntius.com
+data.gblcdn.com
+deals.innocode.no
+delivered-by-madington.com
+delivery.adnuntius.com
+delivery.adten.eu
+des.smartclip.net
+dev.visualwebsiteoptimizer.com
+di.insplanet.com
+digidip.net
+digitalfeedback.euro.confirmit.com
+dinapengar.compricer.se
+dl.episerver.net
+dmcdn.yieldbird.com
+dmp.adform.net
+dmp.theadex.com
+docker.creative-serving.com
+doktor-se.onelink.me
+double.net
+double.se
+dpm.demdex.net
+drift.com
+driftt.com
+drs2.veinteractive.com
+dpk.kindredplc.com
+ds-aksb-a.akamaihd.net
+dynamic-83d822c6-3868940931.stat.truthlyanalytics.com
+e1.emediate.se
+e2.emediate.se
+e3.emediate.se
+e4.emediate.se
+e5.emediate.se
+e6.emediate.se
+e7.emediate.se
+e8.emediate.se
+e9.emediate.se
+eas.mediekompaniet.com
+eas1.emediate.eu
+eas1.emediate.se
+eas2.emediate.eu
+eas2.emediate.se
+eas3.emediate.eu
+eas3.emediate.se
+eas4.emediate.eu
+eas4.emediate.se
+eas5.emediate.eu
+eas5.emediate.se
+eas6.emediate.eu
+eas6.emediate.se
+eas7.emediate.eu
+eas7.emediate.se
+eas8.emediate.eu
+eas8.emediate.se
+eas9.emediate.eu
+eas9.emediate.se
+easyresearch.se
+ecdn.analysis.fi
+ecdn.firstimpression.io
+ecsanalytics.com
+edge.atmtd.com
+edge.quantserve.com
+ediads.com
+elasticad.net
+embed.bannerboo.com
+embi-media.com
+emea.viadata.store
+engine.widespace.com
+etc-cdn-staging.ams3.digitaloceanspaces.com
+eteppy.com
+eu2.madsone.com
+europe-west1-bonnier-big-data.cloudfunctions.net
+eus.rubiconproject.com
+eu.npario-inc.net
+events-collector.spot.im
+exitintel.com
+expo.ads.ramsalt.com
+extern.prisjakt.nu
+external.reseguiden.se
+ezodn.com
+f.convertkit.com
+fapp.pw
+fastlane.rubiconproject.com
+feedads.feedblitz.com
+findbetterresults.com
+flow.aquaplatform.com
+flx1.com
+franecki.net
+freegeoip.app
+freespee.com
+freewheel-mtgx-tv.akamaized.net
+frugalrushcap.com
+funnelytics.io
+funtomic-d.openx.net
+fusion.bonniertidskrifter.se
+fw.adsafeprotected.com
+g.ezoic.net
+g4shift.engine.adglare.net
+ga.getresponse.com
+gadk.hit.gemius.pl
+gamblingsyndication.com
+gameanalytics.com
+gase.hit.gemius.pl
+gcdn.2mdn.net
+go.ezodn.com
+go.ezoic.net
+graphics.adrecord.com
+greatstoryvideo.se
+gwen.insertcoin.se
+hapyak.com
+hb.adpone.com
+hb.adx.adform.net
+hb.headbidder.net
+hb.improvedigital.com
+hbid.ams3.cdn.digitaloceanspaces.com
+headerlift.com
+heroaffiliates.com
+hotwords.es
+hpevoices.com
+hsadspixel.net
+hst.tradedoubler.com
+htlb.casalemedia.com
+h.online-metrix.net
+ib.adnxs.com
+iba.feedblitz.com
+icarabatt.com
+iconosquare.com
+idpt.360yield.com
+images.passendo.com
+img.ads.moceanads.com
+img.upsales.com
+img06.en25.com
+imp.double.se
+imp.tradedoubler.com
+impr.adservicemedia.dk
+improvedigital.com
+impse.tradedoubler.com
+imstore.bet365affiliates.com
+infotorg.d2.sc.omtrdc.net
+insight.adsrvr.org
+insight.nikkasystems.com
+investerarbrevet.se
+inviso.rampanel.com
+invite.leanlab.co
+inxy.run
+ion.btcswe.com
+ipinfo.io
+ipmeta.io
+izooto.com
+js.appboycdn.com
+js.hsadspixel.net
+js.hsleadflows.net
+js.pafpartners.com
+jsc.adskeeper.com
+jsc.adskeeper.co.uk
+jsc.mgid.com
+jscdn.yieldbird.com
+jss.jajja.com
+jssdk.pulse.schibsted.com
+jssdkcdns.mparticle.com
+js-agent.newrelic.com
+js-sec.indexww.com
+js.hs-analytics.net
+js.hs-banner.com
+jtp.expressen.se
+jubiitag.dk
+kaloo.ga
+keymetrics.se
+kiosked.com
+kiwi64.leiki.com
+ksdarprt.reseguiden.se
+kundklubb-se.com
+kyrkoskatten.se
+kyrkskatt.se
+l.betrad.com
+l.sharethis.com
+lanapengar.expressen.se
+lararforbundet.analytics.ozzi.io
+lduhtrp.net
+leadconnect.ipmaxi.se
+leadenhancer.com
+leiki.com
+leiki-doubleclick-proxy.appspot.com
+levaochbo.compricer.se
+libring.com
+lib.wtg-ads.com
+lifeofsvea.mainroll.com
+litix.io
+live.demand.supply
+ljuskompaniet.se
+load.sumome.com
+loader.wisepops.com
+loadr.exelator.com
+log.medietall.no
+logs.spilgames.com
+logx.optimizely.com
+log-api.newrelic.com
+look.ufinkln.com
+lwadm.com
+m.burt.io
+macro.adnami2.io
+macro.adnami.io
+madsone.com
+marfeel.com
+markhor.organicfruitapps.com
+marlin.kumo.at
+masture.mobi
+match.adsby.bidtheatre.com
+matomo.chsc.dk
+matomo.lulea.se
+matomo.mindbite.cloud
+matomo.studio.se
+matomo-sysutv.goteborg.se
+maxetise.net
+mcgtrack.herokuapp.com
+mdn2015x4.com
+media.aso1.net
+media.go2speed.org
+media.plista.com
+mediaglacier.com
+mediakraft.se
+meetrics.net
+mega.folkbladet.nu
+mega.vk.se
+meltwater.com
+menthu.vdsinside.com
+metapic.se
+metrics.brightcove.com
+micro.rubiconproject.com
+mindreskatt.se
+missaffiliate.com
+mmetrix.mobi
+moceanads.com
+mraffiliate.com
+mrporter-creative.prf.hn
+mtpc.se
+mtst.io
+mtv.hb.omtrdc.net
+munchkin.marketo.net
+my.hellobar.com
+n.dyntrk.com
+n24se.nuggad.net
+native.sharethrough.com
+nbes.nu
+network.ad.nu
+newstats.blogg.se
+nexus.ensighten.com
+nichehuset.dk
+nompakru.click
+nordicfynd.se
+nordishopping.com
+norranstats.azurewebsites.net
+norstatsurveys.com
+npario-inc.net
+nvpx.adhost.se
+oas.market.se
+oasc-eu1.247realmedia.com
+omni-ad-blocket.herokuapp.com
+onetag-sys.com
+online.adservicemedia.dk
+ookla-d.openx.net
+openx.financialpublishers.nl
+openx.gamereactor.dk
+openx.jaktsidan.se
+optnmnstr.com
+otc-cdn.relevant-digital.com
+p.insplanet.com
+p.lp4.io
+p.pubmine.com
+pa.rxthdr.com
+paf.elb.myaffiliates.com
+partner.googleadservices.com
+partners.mcontigo.com
+petrk.com
+pheegoab.click
+pi.pardot.com
+piwik.qmmedia.zone
+pix.spot.im
+pixel.adsafeprotected.com
+pixel.carambo.la
+pixel.glimr.io
+pixel.mathtag.com
+pixel.quantserve.com
+pixel.watch
+pixel-profile-cloud.eniro.com
+pixel-sync.sitescout.com
+platform.bidgear.com
+platform.iteratehq.com
+platform-api.sharethis.com
+plus.sharedcount.com
+popitunder.com
+portalhc.com
+postnord-sverige.com
+pp.lp4.io
+prd-collector-platform.ex.co
+prg.smartadserver.com
+proxyas.com
+publish.ne.cision.com
+publishing.kaloo.ga
+publish-int.se
+pushcrew.com
+pushnice.com
+pushwhy.com
+push-notifications.top
+pxl.host
+r.existenz.se
+rabattcoop.com
+rabattkoder.ifragasatt.se
+rabble-res.cloudinary.com
+reauthenticator.com
+recirculation.spot.im
+redistats.com
+reklam.6x.se
+report.23video.com
+research-int.se
+resor-external.barnsemester.se
+resources.infolinks.com
+resultify.com
+resultify.se
+retargettracker.com
+revive.edgeflyfishing.com
+revive.nyheteridag.se
+revive.teknikveckan.com
+revive.tv7.fi
+revive.zinion.com
+revive.99mac.se
+revrelations.com
+revrtb.com
+richaudience.com
+richmediastudio.com
+richmetrics.com
+ridsport.adhost.se
+rotator.riedta.com
+route.carambo.la
+royapp.com
+rtax.criteo.com
+rumcdn.geoedge.be
+rum-collector-2.pingdom.net
+rum-http-intake.logs.datadoghq.eu
+rum-static.pingdom.net
+runmewivel.com
+runtnc.net
+s.moatads.com
+s.ntv.io
+s.pubmine.com
+s.richaudience.com
+s.skimresources.com
+s1.adform.net
+s10.histats.com
+s400.mxcdn.net
+sak.userreport.com
+salesbooster.ai
+salesmanago.pl
+sannsyn.com
+sb.scorecardresearch.com
+sbs.deliveryengine.adswizz.com
+sc.lfeeder.com
+scdn.cxense.com
+science.omni.se
+script.crazyegg.com
+script.ioam.de
+script.tailsweep.com
+scripts.cleverwebserver.com
+scripts.kiosked.com
+scripts.mediavine.com
+script.e-space.se
+sdk.pulse.schibsted.com
+se.ads.justpremium.com
+se1.siteimprove.com
+se5.pliing.com
+search.spotxchange.com
+sebse.nuggad.net
+secserv.adtech.de
+secure.adnxs.com
+secure.curl7bike.com
+secure.quantserve.com
+secure.reaktion.se
+secure.statcounter.com
+securepubads.g.doubleclick.net
+secure-ds.serving-sys.com
+secure.img-cdn.mediaplex.com
+seenthis.se
+sentry.outbid.io
+seonify.com
+serve.albacross.com
+servedby.flashtalking.com
+servedby.lintigroup.se
+servedby.studads.com
+servedby.revive-adserver.net
+serverbid.com
+servg1.net
+services.bilsyndication.com
+services.vlitag.com
+se-02.adtomafusion.com
+se-ads-microservice.aws.aller.com
+se-tv4.videoplaza.tv
+sifomedia.sportsverige.se
+simpleoneline.online
+skattamindre.se
+sleeknote.com
+sleeknotecustomerscripts.sleeknote.com
+smetrics.aftonbladet.se
+smtvn.112.2o7.net
+snap.licdn.com
+sociuslive.com
+source.advisible.com
+spel.expressen.se
+sprinklecontent.com
+sprinkletxt.com
+srv.se.znaptag.com
+ssl.sifomedia.se
+ssl.survey.webstatus.v2.userneeds.dk
+ssl.webserviceaward.com
+ssp-nj.webtradehub.com
+stat.nyheter24.se
+stat.torgen.se
+stat03.stat.cliche.se
+static.addtoany.com
+static.chartbeat.com
+static.criteo.net
+static.digidip.net
+static.getclicky.com
+static.hotjar.com
+static.matchads.net
+static.rekai.se
+static.rek.ai
+static.stat.truthlyanalytics.com
+static.step.dk
+static.zotabox.com
+static-se.plista.com
+static.ads-twitter.com
+statistics.heltenkelt.se
+statistics-se.talentum.com
+statistik.mxo.se
+statistik.svenskaakademien.se
+stats.blogg.se
+stats.bluebillywig.com
+stats.bytelabs.se
+stats.datawrapper.de
+stats.docu.info
+stats.g.doubleclick.net
+stats.healthcare.se
+stats.kaltura.com
+stats.poddtoppen.se
+stats.tipser.com
+stats.userneeds.com
+stats.wpmucdn.com
+stats.wp.com
+stats2.agilecrm.com
+statsapi.screen9.com
+step-dk.gscontxt.net
+sting.de17a.com
+storymedia.se
+strossle.com
+st-n.ads1-adnow.com
+survey.interquest.com
+survey.webstatus.v2.userneeds.dk
+svt.d3.sc.omtrdc.net
+sync.richaudience.com
+synchrobox.adswizz.com
+s-eu-1.pushpushgo.com
+s.go-mpulse.net
+s.vi-serve.com
+t.contentinsights.com
+t.fml.rip
+t.influact.com
+t.myvisitors.se
+t.raptorsmartadvisor.com
+t0.extreme-dm.com
+t1.extreme-dm.com
+tag.imonomy.com
+tag.targeting.unrulymedia.com
+tags.adnuntius.com
+tags.bkrtx.com
+tags.crwdcntrl.net
+tags.refinery89.com
+tags.smilewanted.com
+tags.webtraffic.se
+tb.de17a.com
+tcd.tourn.se
+telemetric.dk
+telemetry.bambuser.io
+tm.tradetracker.net
+to.getnitropack.com
+tools.ascontentcloud.com
+tools.tradedoubler.com
+tourn.co
+tourn.se
+tpc.googlesyndication.com
+tpgrn.com
+tr.apsisforms.com
+track.addevent.com
+track.adform.net
+track.adtraction.com
+track.double.net
+track.postkodlotteriet.se
+trackcmp.net
+tracker.gamedock.io
+tracker.zummycloud.com
+tracker-v4.gamedock.io
+tracking.adviralmedia.com
+tracking.bonnier.news
+tracking.eurosport.com
+tracking.inboxads.com
+tracking.missaffiliate.com
+tracking.omniture.nt.se
+tracking.visitorsvoice.com
+traffic.feedremedy.com
+trafikstyrelsen.com
+trckr.nordiskemedier.dk
+trckr1.nordiskemedier.dk
+trn.ninja
+trugaze.io
+try.abtasty.com
+tt.onthe.io
+twin-iq.kickfire.com
+u.openx.net
+ubembed.com
+umami.nordiskehandel.cloud
+unformsy.mobi
+upsales.com
+userneeds.dk
+utt.impactcdn.com
+veinteractive.com
+vg02.met.vgwort.de
+viagogo.se
+viamtvse.112.2o7.net
+video.unrulymedia.com
+videoapi.smartadserver.com
+vikispot.com
+visitanalytics.userreport.com
+visualwebsiteoptimizer.com
+vitals.vercel-insights.com
+w.sharethis.com
+w.usabilla.com
+wct-1.com
+wdg.headerlift.com
+webbannons.ntm.eu
+webpower.eu
+webstats.100procent.com
+web-analytics.ica.se
+widget.boende.se
+widget.cdn.citygate.se
+widget.citygate.se
+widgets.ad.style
+widgets.getsitecontrol.com
+widgets.spklw.com
+widgets.sprinklecontent.com
+woomio.com
+wrap.tradedoubler.com
+ws.sharethis.com
+wwopenclick.space
+www.adpeepshosted.com
+www.adrecord.com
+www.adsettings.com
+www.adsnet.se
+www.anrdoezrs.net
+www.awin1.com
+www.awltovhc.com
+www.blogtoplist.se
+www.clarity.ms
+www.curemedia.se
+www.dwin2.com
+www.fakturino.se
+www.kundvisaren.se
+www.linnlilja.se
+www.mymediaindex.com
+www.nichehuset.dk
+www.npttech.com
+www.onclickalgo.com
+www.resultify.com
+www.stadiumstage.com
+www.statcounter.com
+www.tamgrt.com
+www.topdisplaynetwork.com
+www.tourn.se
+www.vizzit.se
+www8.smartadserver.com
+www.air-max.se
+www.datadoghq-browser-agent.com
+x.bidswitch.net
+yieldbird.com
+yoursecurecheckout1.com
+z.moatads.com
+znbkpczkrl5wwqzj3-tripadvisor.siteintercept.qualtrics.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@@||hbbtv.zdf.de^
+@@||hbbtv.prosieben.de^
+@@||hbbtv.redbutton.de^
+@@||mhc-ajax-eu.myhomescreen.tv^
+@@||mhc-ajax-eu-s2.myhomescreen.tv^
+@@||mhc-xpana-eu.myhomescreen.tv^
+@@||mhc-xpana-eu-s2.myhomescreen.tv^
+@@||infolink.pavv.co.kr^
